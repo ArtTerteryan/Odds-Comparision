@@ -1,0 +1,563 @@
+kickoff_utc,league,game,method,match_score,toto_margin_pct,vbet_margin_pct,toto_home,vbet_home,diff_home,best_home,toto_draw,vbet_draw,diff_draw,best_draw,toto_away,vbet_away,diff_away,best_away
+2026-07-23T17:00:00+00:00,Club Friendlies,FC Bayern Alzenau vs VfR Wormatia 08 Worms,fuzzy,100.0,7.33,6.76,1.82,1.8,0.02,toto,4.2,4.2,0.0,equal,3.5,3.65,-0.15,vbet
+2026-07-23T19:00:00+00:00,Club Friendlies,Cordoba CF vs Sevilla,fuzzy,100.0,7.37,7.02,2.9,2.92,-0.02,vbet,3.4,3.35,0.05,toto,2.3,2.33,-0.03,vbet
+2026-07-23T16:30:00+00:00,Club Friendlies,Royal Francs-Borains vs Royale Union Tubize-Braine,fuzzy,100.0,8.13,6.84,1.76,1.72,0.04,toto,4.0,4.4,-0.4,vbet,3.8,3.85,-0.05,vbet
+2026-07-23T16:30:00+00:00,Club Friendlies,Skive IK vs Holstebro BK,fuzzy,100.0,7.59,7.05,1.72,1.76,-0.04,vbet,3.9,3.87,0.03,toto,4.2,4.1,0.1,toto
+2026-07-23T15:30:00+00:00,Club Friendlies,Venezia vs Vis Pesaro,fuzzy,100.0,7.02,5.27,1.1,1.08,0.02,toto,9.0,12.0,-3.0,vbet,20.0,23.0,-3.0,vbet
+2026-07-23T16:30:00+00:00,Club Friendlies,FC Breitenrain Bern vs FC Solothurn,fuzzy,100.0,7.64,6.59,1.5,1.5,0.0,equal,4.6,4.6,0.0,equal,5.2,5.5,-0.3,vbet
+2026-07-23T18:30:00+00:00,Club Friendlies,FC Biel Bienne vs FC Prishtina Bern,fuzzy,100.0,6.55,7.16,1.48,1.48,0.0,equal,4.6,4.6,0.0,equal,5.8,5.6,0.2,toto
+2026-08-12T19:00:00+00:00,UEFA Super Cup,Paris Saint-Germain vs Aston Villa,fuzzy,100.0,5.37,7.19,1.68,1.67,0.01,toto,3.9,3.91,-0.01,vbet,4.95,4.6,0.35,toto
+2026-07-23T17:00:00+00:00,UEFA Europa League Qualification,Hammarby IF vs RSC Anderlecht,fuzzy,100.0,8.22,7.11,1.8,1.83,-0.03,vbet,3.7,3.71,-0.01,vbet,3.9,3.92,-0.02,vbet
+2026-07-23T17:00:00+00:00,UEFA Europa League Qualification,Tromso IL vs FC Hradec Kralove,fuzzy,100.0,8.07,6.87,1.37,1.4,-0.03,vbet,4.6,4.6,0.0,equal,7.5,7.3,0.2,toto
+2026-07-23T18:00:00+00:00,UEFA Europa League Qualification,FC St. Gallen vs SL Benfica,fuzzy,100.0,8.91,7.03,7.0,7.2,-0.2,vbet,5.0,5.4,-0.4,vbet,1.34,1.34,0.0,equal
+2026-07-23T18:00:00+00:00,UEFA Europa League Qualification,Besiktas vs FC Midtjylland,fuzzy,100.0,8.34,7.02,2.25,2.24,0.01,toto,3.4,3.47,-0.07,vbet,2.9,2.98,-0.08,vbet
+2026-07-23T18:00:00+00:00,UEFA Europa League Qualification,Twente vs Ferencvarosi TC,fuzzy,100.0,7.7,7.52,1.49,1.49,0.0,equal,4.4,4.5,-0.1,vbet,5.6,5.5,0.1,toto
+2026-07-23T19:00:00+00:00,UEFA Europa League Qualification,HNK Hajduk Split vs Pafos FC,fuzzy,100.0,8.6,6.97,2.05,2.07,-0.02,vbet,3.2,3.37,-0.17,vbet,3.5,3.45,0.05,toto
+2026-07-23T17:00:00+00:00,UEFA Europa League Qualification,Dynamo Kyiv vs PAOK FC,fuzzy,100.0,8.17,7.12,2.6,2.73,-0.13,vbet,3.2,3.23,-0.03,vbet,2.6,2.53,0.07,toto
+2026-07-23T17:00:00+00:00,UEFA Europa League Qualification,FC Sheriff Tiraspol vs Maccabi Tel Aviv FC,fuzzy,100.0,9.03,6.87,3.0,3.0,0.0,equal,3.2,3.37,-0.17,vbet,2.25,2.28,-0.03,vbet
+2026-07-29T17:00:00+00:00,UEFA Champions League Qualification,KKS Lech Poznan vs Aarhus GF,fuzzy,100.0,8.56,7.06,1.84,1.89,-0.05,vbet,3.5,3.5,0.0,equal,3.9,3.91,-0.01,vbet
+2026-07-29T18:00:00+00:00,UEFA Champions League Qualification,Gornik Zabrze vs Fenerbahce,fuzzy,100.0,8.58,6.94,4.4,4.4,0.0,equal,3.7,3.74,-0.04,vbet,1.7,1.74,-0.04,vbet
+2026-07-29T15:00:00+00:00,UEFA Champions League Qualification,FC Kairat Almaty vs Omonia Nicosia,fuzzy,100.0,8.62,6.97,2.5,2.53,-0.03,vbet,3.1,3.19,-0.09,vbet,2.75,2.77,-0.02,vbet
+2026-07-23T18:00:00+00:00,UEFA Conference League Qualification,Paksi SE vs Panathinaikos,fuzzy,100.0,8.84,6.97,4.6,4.6,0.0,equal,4.2,4.4,-0.2,vbet,1.58,1.6,-0.02,vbet
+2026-07-23T17:45:00+00:00,UEFA Conference League Qualification,FCSB vs FK Auda,fuzzy,100.0,8.67,6.54,1.14,1.1,0.04,toto,7.0,9.2,-2.2,vbet,15.0,21.0,-6.0,vbet
+2026-07-23T18:30:00+00:00,UEFA Conference League Qualification,FC LNZ Cherkasy vs KAA Gent,fuzzy,100.0,7.91,7.13,3.9,4.2,-0.3,vbet,3.2,3.23,-0.03,vbet,1.96,1.91,0.05,toto
+2026-07-23T16:30:00+00:00,UEFA Conference League Qualification,AEK Larnaca vs Beitar Jerusalem,fuzzy,100.0,9.82,7.1,2.0,2.1,-0.1,vbet,3.2,3.17,0.03,toto,3.5,3.58,-0.08,vbet
+2026-07-23T18:30:00+00:00,UEFA Conference League Qualification,FC Lugano vs KF Dukagjini,fuzzy,100.0,8.59,7.26,1.15,1.11,0.04,toto,6.5,8.4,-1.9,vbet,16.0,19.0,-3.0,vbet
+2026-07-23T16:00:00+00:00,UEFA Conference League Qualification,HJK Helsinki vs Coleraine FC,fuzzy,100.0,8.11,7.18,1.3,1.27,0.03,toto,5.6,5.9,-0.3,vbet,7.5,8.7,-1.2,vbet
+2026-07-23T19:15:00+00:00,UEFA Conference League Qualification,Valur Reykjavik FC vs HSK Zrinjski Mostar,fuzzy,100.0,8.6,7.06,2.8,2.66,0.14,toto,3.4,3.47,-0.07,vbet,2.3,2.46,-0.16,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,FC Zimbru Chisinau vs FC Noah,fuzzy,100.0,8.14,7.23,4.5,4.4,0.1,toto,3.6,3.7,-0.1,vbet,1.72,1.74,-0.02,vbet
+2026-07-23T18:45:00+00:00,UEFA Conference League Qualification,FC Motherwell vs Havnar Boltfelag,fuzzy,100.0,8.41,7.02,1.09,1.06,0.03,toto,9.0,12.0,-3.0,vbet,18.0,23.0,-5.0,vbet
+2026-07-23T15:30:00+00:00,UEFA Conference League Qualification,FK Panevezys vs FC Tobol,fuzzy,100.0,8.82,5.05,3.9,3.58,0.32,toto,3.4,3.59,-0.19,vbet,1.86,2.03,-0.17,vbet
+2026-07-23T18:00:00+00:00,UEFA Conference League Qualification,FC Polissya Zhytomyr vs FC Copenhagen,fuzzy,100.0,8.21,6.92,4.0,4.2,-0.2,vbet,3.7,3.67,0.03,toto,1.78,1.79,-0.01,vbet
+2026-07-23T18:30:00+00:00,UEFA Conference League Qualification,Hapoel Tel Aviv vs PFC Ludogorets Razgrad,fuzzy,100.0,8.96,7.01,3.2,3.32,-0.12,vbet,3.1,3.12,-0.02,vbet,2.2,2.23,-0.03,vbet
+2026-07-28T17:00:00+00:00,UEFA Conference League Qualification,Riga FC vs FK Vardar,fuzzy,100.0,8.44,6.87,1.4,1.4,0.0,equal,4.4,4.6,-0.2,vbet,7.0,7.3,-0.3,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,FK ML Vitebsk vs FK Sutjeska Niksic,fuzzy,100.0,8.29,7.14,1.68,1.63,0.05,toto,3.7,3.94,-0.24,vbet,4.6,4.9,-0.3,vbet
+2026-07-23T19:00:00+00:00,UEFA Conference League Qualification,FK Partizan Belgrade vs UNA Strassen,fuzzy,100.0,9.29,7.05,1.12,1.07,0.05,toto,7.5,12.0,-4.5,vbet,15.0,19.0,-4.0,vbet
+2026-07-23T18:45:00+00:00,UEFA Conference League Qualification,NSI Runavik vs FC Koper,fuzzy,100.0,9.57,6.95,2.8,2.86,-0.06,vbet,3.4,3.58,-0.18,vbet,2.25,2.27,-0.02,vbet
+2026-07-23T16:30:00+00:00,UEFA Conference League Qualification,FK DAC Dunajska Streda vs FK Velez Mostar,fuzzy,100.0,8.98,7.16,1.21,1.16,0.05,toto,5.8,7.0,-1.2,vbet,11.0,15.0,-4.0,vbet
+2026-07-23T18:45:00+00:00,UEFA Conference League Qualification,NK Bravo vs KF Shkendija,fuzzy,100.0,9.53,7.04,1.94,1.81,0.13,toto,3.4,3.75,-0.35,vbet,3.5,3.98,-0.48,vbet
+2026-07-23T16:00:00+00:00,UEFA Conference League Qualification,FC Dila Gori vs Apollon Limassol,fuzzy,100.0,8.82,6.87,4.2,4.33,-0.13,vbet,3.2,3.27,-0.07,vbet,1.86,1.88,-0.02,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,FC BATE Borisov vs FC Sion,fuzzy,100.0,8.92,6.98,11.0,11.0,0.0,equal,5.6,5.8,-0.2,vbet,1.22,1.24,-0.02,vbet
+2026-07-23T18:45:00+00:00,UEFA Conference League Qualification,Shelbourne FC vs JK Nomme Kalju,fuzzy,100.0,8.57,7.18,1.4,1.4,0.0,equal,4.2,4.33,-0.13,vbet,7.5,7.9,-0.4,vbet
+2026-07-23T18:45:00+00:00,UEFA Conference League Qualification,HNK Rijeka vs Derry City,fuzzy,100.0,7.88,7.1,1.12,1.09,0.03,toto,7.5,8.4,-0.9,vbet,19.0,29.0,-10.0,vbet
+2026-07-23T18:30:00+00:00,UEFA Conference League Qualification,MSK Zilina vs GKS Katowice,fuzzy,100.0,8.63,6.92,2.55,2.56,-0.01,vbet,3.4,3.53,-0.13,vbet,2.5,2.53,-0.03,vbet
+2026-07-23T18:00:00+00:00,UEFA Conference League Qualification,FK Vojvodina vs Ajax Amsterdam,fuzzy,100.0,9.32,6.77,6.0,7.0,-1.0,vbet,4.4,4.75,-0.35,vbet,1.43,1.4,0.03,toto
+2026-07-23T19:00:00+00:00,UEFA Conference League Qualification,Stjarnan FC vs FC Ilves,fuzzy,100.0,9.22,6.88,2.6,2.6,0.0,equal,3.8,3.98,-0.18,vbet,2.25,2.31,-0.06,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,Dinamo Tbilisi vs FK Zalgiris,fuzzy,100.0,9.07,6.89,2.15,2.13,0.02,toto,3.1,3.23,-0.13,vbet,3.3,3.45,-0.15,vbet
+2026-07-23T18:00:00+00:00,UEFA Conference League Qualification,NK Aluminij Kidricevo vs FC Dinamo City,fuzzy,100.0,8.86,6.99,2.65,2.69,-0.04,vbet,3.3,3.41,-0.11,vbet,2.45,2.47,-0.02,vbet
+2026-07-23T16:30:00+00:00,UEFA Conference League Qualification,FC RFS vs FC IF Vestri,fuzzy,100.0,8.33,6.97,1.04,1.03,0.01,toto,12.0,17.0,-5.0,vbet,26.0,25.0,1.0,toto
+2026-07-23T18:00:00+00:00,UEFA Conference League Qualification,NK Varazdin vs FK Jablonec,fuzzy,100.0,8.16,6.83,2.7,2.7,0.0,equal,3.3,3.27,0.03,toto,2.45,2.55,-0.1,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,FC Universitatea Cluj vs SK Brann,fuzzy,100.0,8.87,6.99,3.5,3.7,-0.2,vbet,3.3,3.31,-0.01,vbet,2.0,2.01,-0.01,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,FC Santa Coloma vs SK Rapid Wien,fuzzy,100.0,9.31,6.89,10.0,11.0,-1.0,vbet,6.0,6.6,-0.6,vbet,1.21,1.21,0.0,equal
+2026-07-23T16:00:00+00:00,UEFA Conference League Qualification,Debreceni VSC vs FC Pyunik,fuzzy,100.0,8.76,6.99,1.84,1.74,0.1,toto,3.4,3.6,-0.2,vbet,4.0,4.6,-0.6,vbet
+2026-07-23T18:30:00+00:00,UEFA Conference League Qualification,FK Borac Banja Luka vs FC Petrocub,fuzzy,100.0,8.83,7.05,1.42,1.41,0.01,toto,4.6,5.0,-0.4,vbet,6.0,6.2,-0.2,vbet
+2026-07-23T16:00:00+00:00,UEFA Conference League Qualification,FC Flora Tallinn vs The New Saints FC,fuzzy,100.0,8.95,7.04,2.2,2.23,-0.03,vbet,3.6,3.64,-0.04,vbet,2.8,2.88,-0.08,vbet
+2026-07-24T00:30:00+00:00,Copa Sudamericana,Boca Juniors vs O´Higgins FC,fuzzy,100.0,7.06,7.56,1.27,1.25,0.02,toto,5.2,5.2,0.0,equal,11.0,12.0,-1.0,vbet
+2026-07-23T22:00:00+00:00,Copa Sudamericana,Club Bolivar vs Gremio FB Porto Alegrense,fuzzy,100.0,7.37,6.55,1.6,1.58,0.02,toto,3.9,4.1,-0.2,vbet,5.2,5.3,-0.1,vbet
+2026-07-28T22:00:00+00:00,Copa Sudamericana,CA Tigre BA vs Club Nacional Montevideo,fuzzy,100.0,8.28,6.95,2.1,2.09,0.01,toto,3.4,3.32,0.08,toto,3.2,3.45,-0.25,vbet
+2026-07-29T22:00:00+00:00,Copa Sudamericana,CR Vasco da Gama vs Independiente Medellin,fuzzy,100.0,6.25,6.63,1.68,1.66,0.02,toto,3.8,3.79,0.01,toto,4.9,5.0,-0.1,vbet
+2026-07-29T00:30:00+00:00,Copa Sudamericana,Santos SP vs UCV FC,fuzzy,100.0,7.31,7.31,1.24,1.24,0.0,equal,6.0,6.0,0.0,equal,10.0,10.0,0.0,equal
+2026-08-11T22:00:00+00:00,Copa Libertadores,Fluminense vs Independiente Rivadavia,fuzzy,100.0,6.43,7.14,1.56,1.56,0.0,equal,4.2,4.2,0.0,equal,5.4,5.2,0.2,toto
+2026-08-12T22:00:00+00:00,Copa Libertadores,CA Platense Buenos Aires vs CD Coquimbo Unido,fuzzy,100.0,5.86,7.27,1.8,1.77,0.03,toto,3.3,3.25,0.05,toto,5.0,5.0,0.0,equal
+2026-08-12T00:30:00+00:00,Copa Libertadores,Estudiantes La Plata vs CD Universidad Catolica Santiago,fuzzy,100.0,6.0,7.2,1.72,1.72,0.0,equal,3.7,3.66,0.04,toto,4.8,4.6,0.2,toto
+2026-08-12T00:30:00+00:00,Copa Libertadores,Deportes Tolima vs Independiente del Valle,fuzzy,100.0,5.88,7.04,2.55,2.54,0.01,toto,3.3,3.25,0.05,toto,2.75,2.71,0.04,toto
+2026-08-12T22:00:00+00:00,Copa Libertadores,SE Palmeiras vs Club Cerro Porteno Asuncion,fuzzy,100.0,6.03,6.68,1.36,1.35,0.01,toto,5.0,4.9,0.1,toto,8.0,8.2,-0.2,vbet
+2026-08-13T22:00:00+00:00,Copa Libertadores,Mirassol FC vs LDU Quito,fuzzy,100.0,5.96,6.97,1.94,1.93,0.01,toto,3.4,3.25,0.15,toto,4.0,4.1,-0.1,vbet
+2026-08-14T00:30:00+00:00,Copa Libertadores,CA Rosario Central vs Corinthians SP,fuzzy,100.0,6.12,6.91,2.2,2.28,-0.08,vbet,3.2,3.08,0.12,toto,3.4,3.27,0.13,toto
+2026-08-13T00:30:00+00:00,Copa Libertadores,Cruzeiro EC vs Regatas Flamengo RJ,fuzzy,100.0,5.77,7.01,2.65,2.61,0.04,toto,3.3,3.23,0.07,toto,2.65,2.65,0.0,equal
+2026-07-25T18:00:00+00:00,Primera Nacional,Estudiantes de Caseros vs Ciudad de Bolivar,fuzzy,100.0,9.02,7.28,1.68,1.69,-0.01,vbet,3.1,3.18,-0.08,vbet,5.8,6.0,-0.2,vbet
+2026-07-25T19:00:00+00:00,Primera Nacional,Atletico Rafaela vs CA Nueva Chicago,fuzzy,100.0,9.57,7.04,2.25,2.28,-0.03,vbet,2.8,2.85,-0.05,vbet,3.4,3.56,-0.16,vbet
+2026-07-25T22:00:00+00:00,Primera Nacional,San Martin de Tucuman vs CA Temperley,fuzzy,100.0,8.84,6.83,1.96,2.02,-0.06,vbet,2.85,2.89,-0.04,vbet,4.4,4.4,0.0,equal
+2026-07-25T18:00:00+00:00,Primera Nacional,Tristan Suarez vs Chacarita Juniors,fuzzy,100.0,9.46,7.14,1.9,1.92,-0.02,vbet,2.85,2.96,-0.11,vbet,4.6,4.7,-0.1,vbet
+2026-07-26T18:00:00+00:00,Primera Nacional,CA Los Andes vs CS Deportivo Madryn,fuzzy,100.0,9.4,6.86,1.98,2.0,-0.02,vbet,2.85,2.93,-0.08,vbet,4.2,4.4,-0.2,vbet
+2026-07-26T18:00:00+00:00,Primera Nacional,CD Moron vs Club Ferro Carril Oeste,fuzzy,100.0,9.6,7.01,2.2,2.25,-0.05,vbet,2.75,2.82,-0.07,vbet,3.6,3.69,-0.09,vbet
+2026-07-26T18:00:00+00:00,Primera Nacional,CA All Boys vs CA Defensores de Belgrano,fuzzy,100.0,9.71,6.92,2.4,2.49,-0.09,vbet,2.65,2.69,-0.04,vbet,3.3,3.38,-0.08,vbet
+2026-07-26T18:30:00+00:00,Primera Nacional,CA Colon de Santa Fe vs CA Chaco For Ever,fuzzy,100.0,10.18,6.73,1.56,1.56,0.0,equal,3.4,3.61,-0.21,vbet,6.0,6.7,-0.7,vbet
+2026-07-26T19:00:00+00:00,Primera Nacional,Racing de Cordoba vs CA San Telmo,fuzzy,100.0,9.27,7.21,1.62,1.62,0.0,equal,3.3,3.47,-0.17,vbet,5.8,6.0,-0.2,vbet
+2026-07-26T19:00:00+00:00,Primera Nacional,Quilmes AC vs CA Colegiales,fuzzy,100.0,9.99,7.11,1.72,1.73,-0.01,vbet,3.0,3.18,-0.18,vbet,5.4,5.6,-0.2,vbet
+2026-07-26T19:00:00+00:00,Primera Nacional,CA Ferrocarril Midland vs CA Patronato,fuzzy,100.0,9.4,7.25,1.86,1.88,-0.02,vbet,2.95,3.01,-0.06,vbet,4.6,4.8,-0.2,vbet
+2026-07-26T19:00:00+00:00,Primera Nacional,CA Mitre (SdE) vs Almirante Brown,fuzzy,100.0,9.93,6.8,2.3,2.39,-0.09,vbet,2.7,2.78,-0.08,vbet,3.4,3.45,-0.05,vbet
+2026-07-26T19:30:00+00:00,Primera Nacional,Godoy Cruz AT vs CA Central Norte Salta,fuzzy,100.0,10.0,7.02,1.68,1.7,-0.02,vbet,3.2,3.37,-0.17,vbet,5.2,5.4,-0.2,vbet
+2026-07-26T21:00:00+00:00,Primera Nacional,Club Gimnasia y Tiro Salta vs CD Maipu,fuzzy,100.0,10.96,7.27,1.9,1.93,-0.03,vbet,3.0,3.16,-0.16,vbet,4.0,4.2,-0.2,vbet
+2026-07-26T18:30:00+00:00,Primera Nacional,CA San Miguel vs CA Acassuso,fuzzy,100.0,10.42,6.85,1.6,1.61,-0.01,vbet,3.2,3.38,-0.18,vbet,6.0,6.6,-0.6,vbet
+2026-07-27T23:00:00+00:00,Primera Nacional,CA Atlanta vs Club Almagro,fuzzy,100.0,10.04,6.84,1.6,1.62,-0.02,vbet,3.3,3.45,-0.15,vbet,5.8,6.2,-0.4,vbet
+2026-07-24T22:00:00+00:00,Liga Profesional,Velez Sarsfield vs Instituto AC Cordoba,fuzzy,100.0,6.05,7.07,2.15,2.12,0.03,toto,2.95,2.93,0.02,toto,3.9,3.88,0.02,toto
+2026-07-25T00:15:00+00:00,Liga Profesional,CA Huracan vs CA Banfield,fuzzy,100.0,6.28,6.99,1.94,1.89,0.05,toto,2.95,2.97,-0.02,vbet,4.8,4.9,-0.1,vbet
+2026-07-25T00:15:00+00:00,Liga Profesional,CA Platense Buenos Aires vs CA Union de Santa Fe,fuzzy,100.0,5.33,6.91,2.8,2.78,0.02,toto,2.8,2.7,0.1,toto,2.95,2.95,0.0,equal
+2026-07-23T22:30:00+00:00,Liga Profesional,CA Belgrano Cordoba vs CA Rosario Central,fuzzy,100.0,5.88,7.04,2.55,2.51,0.04,toto,2.75,2.64,0.11,toto,3.3,3.41,-0.11,vbet
+2026-07-26T22:30:00+00:00,Liga Profesional,Deportivo Riestra vs Boca Juniors,fuzzy,100.0,5.99,6.82,4.4,4.5,-0.1,vbet,2.9,2.83,0.07,toto,2.05,2.03,0.02,toto
+2026-07-24T19:45:00+00:00,Liga Profesional,Gimnasia y Esgrima de Mendoza vs Central Cordoba SdE,fuzzy,100.0,5.6,7.11,1.84,1.83,0.01,toto,3.2,3.14,0.06,toto,5.0,4.85,0.15,toto
+2026-07-24T22:00:00+00:00,Liga Profesional,Racing Club Avellaneda vs Gimnasia y Esgrima La Plata,fuzzy,100.0,5.86,6.99,1.8,1.75,0.05,toto,3.3,3.35,-0.05,vbet,5.0,5.0,0.0,equal
+2026-07-25T22:15:00+00:00,Liga Profesional,CA River Plate BA vs Barracas Central,fuzzy,100.0,6.35,6.74,1.4,1.36,0.04,toto,4.2,4.5,-0.3,vbet,9.0,9.1,-0.1,vbet
+2026-07-26T00:30:00+00:00,Liga Profesional,CA Lanus vs San Lorenzo de Almagro,fuzzy,100.0,6.83,6.92,2.0,2.01,-0.01,vbet,2.85,2.72,0.13,toto,4.6,4.9,-0.3,vbet
+2026-07-23T22:30:00+00:00,Liga Profesional,CA Sarmiento Junin vs Argentinos Juniors,fuzzy,100.0,5.41,7.07,4.4,4.6,-0.2,vbet,2.95,2.83,0.12,toto,2.05,2.0,0.05,toto
+2026-07-25T20:00:00+00:00,Liga Profesional,Newells Old Boys vs CA Talleres de Cordoba,fuzzy,100.0,5.26,6.91,2.85,2.86,-0.01,vbet,2.85,2.8,0.05,toto,2.85,2.76,0.09,toto
+2026-07-26T18:00:00+00:00,Liga Profesional,Atletico Tucuman vs Independiente Rivadavia,fuzzy,100.0,5.71,6.96,2.65,2.63,0.02,toto,3.1,3.01,0.09,toto,2.8,2.8,0.0,equal
+2026-07-26T20:15:00+00:00,Liga Profesional,Estudiantes La Plata vs CA Independiente Avellaneda,fuzzy,100.0,5.67,7.12,2.2,2.17,0.03,toto,2.95,2.94,0.01,toto,3.8,3.7,0.1,toto
+2026-07-23T18:00:00+00:00,Primera C,CA Argentino de Rosario vs CA Puerto Nuevo,fuzzy,100.0,12.73,6.85,2.25,2.37,-0.12,vbet,2.7,2.79,-0.09,vbet,3.2,3.47,-0.27,vbet
+2026-07-23T18:00:00+00:00,Reserve League,Berazategui (Reserves) vs CA Lugano (Reserves),fuzzy,100.0,12.04,7.39,1.7,1.77,-0.07,vbet,3.4,3.55,-0.15,vbet,4.2,4.4,-0.2,vbet
+2026-07-23T18:00:00+00:00,Reserve League,Racing Club Avellaneda (Reserves) vs Gimnasia y Esgrima de Mendoza (Reserves),fuzzy,100.0,10.82,6.76,1.68,1.74,-0.06,vbet,3.5,3.57,-0.07,vbet,4.4,4.7,-0.3,vbet
+2026-07-23T18:00:00+00:00,Reserve League,Newells Old Boys (Reserves) vs AA Estudiantes (Reserves),fuzzy,100.0,10.14,6.86,1.37,1.38,-0.01,vbet,4.2,4.6,-0.4,vbet,7.5,7.9,-0.4,vbet
+2026-07-23T18:00:00+00:00,Reserve League,CA Lanus (Reserves) vs CA Huracan (Reserves),fuzzy,100.0,10.38,7.08,1.86,1.91,-0.05,vbet,3.3,3.4,-0.1,vbet,3.8,3.95,-0.15,vbet
+2026-07-23T18:00:00+00:00,Reserve League,Independiente Rivadavia (Reserves) vs CA Independiente (Reserves),fuzzy,100.0,10.81,7.15,2.65,2.84,-0.19,vbet,3.1,3.23,-0.13,vbet,2.45,2.44,0.01,toto
+2026-07-24T09:30:00+00:00,NPL Victoria,St Albans Saints SC vs Hume City FC,fuzzy,100.0,11.66,6.89,3.2,3.31,-0.11,vbet,3.6,3.82,-0.22,vbet,1.9,1.98,-0.08,vbet
+2026-07-24T09:30:00+00:00,NPL Victoria,Green Gully SC vs Dandenong City SC,fuzzy,100.0,10.36,7.0,3.0,3.16,-0.16,vbet,3.4,3.52,-0.12,vbet,2.1,2.13,-0.03,vbet
+2026-07-24T10:15:00+00:00,NPL Victoria,Oakleigh Cannons vs South Melbourne FC,fuzzy,100.0,10.7,6.86,1.84,1.91,-0.07,vbet,3.5,3.62,-0.12,vbet,3.6,3.72,-0.12,vbet
+2026-07-24T10:30:00+00:00,NPL Victoria,Preston Lions FC vs Bentleigh Greens SC,fuzzy,100.0,10.83,6.82,1.32,1.32,0.0,equal,4.6,5.3,-0.7,vbet,7.5,8.2,-0.7,vbet
+2026-07-24T10:30:00+00:00,Victoria Premier League 1,Eltham Redbacks FC vs FC Melbourne Srbija,fuzzy,100.0,12.25,6.84,1.84,1.89,-0.05,vbet,3.9,4.2,-0.3,vbet,3.1,3.32,-0.22,vbet
+2026-07-24T10:00:00+00:00,NPL SA State League 1,Adelaide Olympic FC vs South Adelaide Panthers,fuzzy,100.0,11.85,6.61,1.33,1.36,-0.03,vbet,5.0,5.9,-0.9,vbet,6.0,6.2,-0.2,vbet
+2026-07-24T09:30:00+00:00,NPL Queensland - Women,Olympic FC QLD (Wom) vs Brisbane City FC (Wom),fuzzy,100.0,11.81,7.25,4.2,4.8,-0.6,vbet,3.7,3.93,-0.23,vbet,1.64,1.64,0.0,equal
+2026-07-24T10:30:00+00:00,NPL Queensland - Women,Queensland Lions FC (Wom) vs Capalaba FC (Wom),fuzzy,100.0,10.55,6.72,1.1,1.09,0.01,toto,8.0,11.0,-3.0,vbet,14.0,17.0,-3.0,vbet
+2026-07-31T17:30:00+00:00,Bundesliga,LASK Linz vs Grazer AK,fuzzy,100.0,5.55,6.95,1.66,1.65,0.01,toto,4.05,3.92,0.13,toto,4.85,4.8,0.05,toto
+2026-08-02T15:00:00+00:00,Bundesliga,SC Austria Lustenau vs SV Ried,fuzzy,100.0,5.49,7.01,2.6,2.62,-0.02,vbet,3.35,3.2,0.15,toto,2.69,2.66,0.03,toto
+2026-08-02T15:00:00+00:00,Bundesliga,RZ Pellets WAC vs FK Austria Wien,fuzzy,100.0,5.44,7.07,2.35,2.31,0.04,toto,3.45,3.4,0.05,toto,2.95,2.91,0.04,toto
+2026-08-02T17:00:00+00:00,Bundesliga,SK Rapid Wien vs SCR Altach,fuzzy,100.0,5.26,7.14,1.81,1.8,0.01,toto,3.7,3.53,0.17,toto,4.35,4.3,0.05,toto
+2026-08-01T17:30:00+00:00,Bundesliga,Red Bull Salzburg vs TSV Hartberg,fuzzy,100.0,5.47,7.08,1.33,1.33,0.0,equal,5.4,5.2,0.2,toto,8.5,7.9,0.6,toto
+2026-08-01T15:00:00+00:00,Bundesliga,WSG Tirol vs SK Sturm Graz,fuzzy,100.0,5.5,6.9,3.9,3.82,0.08,toto,3.75,3.67,0.08,toto,1.88,1.87,0.01,toto
+2026-07-24T17:30:00+00:00,OFB Cup,Union Gurten vs FC Blau Weiss Linz,fuzzy,100.0,7.56,6.74,4.8,4.85,-0.05,vbet,4.0,4.1,-0.1,vbet,1.62,1.62,0.0,equal
+2026-07-24T17:30:00+00:00,OFB Cup,FCM Arkadia Traiskirchen vs SVG Bleiburg,fuzzy,100.0,7.15,6.85,1.29,1.31,-0.02,vbet,5.4,5.6,-0.2,vbet,9.0,7.9,1.1,toto
+2026-07-24T17:00:00+00:00,OFB Cup,SV Leobendorf vs SCR Altach,fuzzy,100.0,6.61,6.93,10.0,10.0,0.0,equal,5.8,6.4,-0.6,vbet,1.26,1.23,0.03,toto
+2026-07-24T16:30:00+00:00,OFB Cup,FC Dornbirn 1913 vs SV Ried,fuzzy,100.0,6.96,6.93,15.0,15.0,0.0,equal,7.5,8.5,-1.0,vbet,1.15,1.13,0.02,toto
+2026-07-24T17:00:00+00:00,OFB Cup,Deutschlandsberger SC vs SKU Amstetten,fuzzy,100.0,7.83,7.26,5.4,5.3,0.1,toto,4.6,4.7,-0.1,vbet,1.48,1.49,-0.01,vbet
+2026-07-24T17:30:00+00:00,OFB Cup,SV Horn vs Floridsdorfer AC,fuzzy,100.0,8.33,6.71,5.2,5.1,0.1,toto,4.0,4.2,-0.2,vbet,1.56,1.58,-0.02,vbet
+2026-07-31T18:30:00+00:00,Super Cup,Club Brugge vs Royale Union Saint-Gilloise,fuzzy,100.0,9.07,7.15,2.15,2.16,-0.01,vbet,3.3,3.4,-0.1,vbet,3.1,3.18,-0.08,vbet
+2026-07-23T22:30:00+00:00,Serie A,Corinthians SP vs Remo PA,fuzzy,100.0,7.05,7.08,1.5,1.5,0.0,equal,4.0,3.89,0.11,toto,6.5,6.8,-0.3,vbet
+2026-07-23T22:30:00+00:00,Serie A,Botafogo vs EC Vitoria BA,fuzzy,100.0,6.88,6.79,1.74,1.73,0.01,toto,3.5,3.45,0.05,toto,4.8,5.0,-0.2,vbet
+2026-07-25T23:30:00+00:00,Serie A,CR Vasco da Gama vs Mirassol FC,fuzzy,100.0,6.11,6.89,2.05,2.04,0.01,toto,3.3,3.25,0.05,toto,3.7,3.69,0.01,toto
+2026-07-25T21:30:00+00:00,Serie A,Santos SP vs Chapecoense SC,fuzzy,100.0,5.49,6.69,1.42,1.41,0.01,toto,4.6,4.7,-0.1,vbet,7.5,6.9,0.6,toto
+2026-07-26T21:30:00+00:00,Serie A,Gremio FB Porto Alegrense vs Fluminense,fuzzy,100.0,5.8,7.09,2.6,2.57,0.03,toto,3.3,3.3,0.0,equal,2.7,2.64,0.06,toto
+2026-07-26T19:00:00+00:00,Serie B,Criciuma EC vs Nautico Capibaribe,fuzzy,100.0,7.55,7.07,1.72,1.73,-0.01,vbet,3.4,3.29,0.11,toto,5.0,5.3,-0.3,vbet
+2026-07-26T21:30:00+00:00,Serie B,Londrina EC PR vs Gremio Novorizontino,fuzzy,100.0,8.06,7.08,3.3,3.41,-0.11,vbet,3.2,3.27,-0.07,vbet,2.15,2.12,0.03,toto
+2026-07-26T21:30:00+00:00,Serie B,America MG vs Goias EC,fuzzy,100.0,7.03,6.95,2.55,2.57,-0.02,vbet,2.9,2.9,0.0,equal,3.0,2.98,0.02,toto
+2026-07-27T22:30:00+00:00,Serie B,Clube De Regatas Brasil vs Vila Nova Goiania,fuzzy,100.0,7.39,6.84,1.92,1.93,-0.01,vbet,3.3,3.33,-0.03,vbet,4.0,4.0,0.0,equal
+2026-07-24T00:30:00+00:00,Serie B,Botafogo FC SP vs EC Juventude RS,fuzzy,100.0,7.78,6.94,2.45,2.44,0.01,toto,2.8,2.73,0.07,toto,3.2,3.41,-0.21,vbet
+2026-07-23T23:30:00+00:00,Serie B,Cuiaba EC vs Atletico Goianiense,fuzzy,100.0,7.11,6.9,2.05,2.02,0.03,toto,3.0,3.03,-0.03,vbet,4.0,4.1,-0.1,vbet
+2026-07-23T22:30:00+00:00,Serie B,Athletic Club MG vs Sao Bernardo FC SP,fuzzy,100.0,8.43,7.0,2.05,2.02,0.03,toto,3.0,3.12,-0.12,vbet,3.8,3.93,-0.13,vbet
+2026-07-23T18:00:00+00:00,U20 Campeonato Catarinense,Chapecoense SC U20 vs Barra FC U20,fuzzy,100.0,12.06,7.04,2.25,2.35,-0.1,vbet,3.2,3.36,-0.16,vbet,2.75,2.88,-0.13,vbet
+2026-07-24T22:00:00+00:00,Campeonato Brasileiro A1 - Women,America MG (Wom) vs Santos SP (Wom),fuzzy,100.0,10.81,6.78,5.8,6.5,-0.7,vbet,3.6,3.72,-0.12,vbet,1.52,1.55,-0.03,vbet
+2026-07-24T22:00:00+00:00,Campeonato Brasileiro A1 - Women,Regatas Flamengo RJ (Wom) vs Gremio FB Porto Alegrense (Wom),fuzzy,100.0,10.86,7.14,1.8,1.84,-0.04,vbet,3.3,3.45,-0.15,vbet,4.0,4.2,-0.2,vbet
+2026-07-25T00:30:00+00:00,Campeonato Brasileiro A1 - Women,Cruzeiro EC (Wom) vs Sao Paulo FC (Wom),fuzzy,100.0,11.79,7.09,2.85,2.93,-0.08,vbet,3.1,3.25,-0.15,vbet,2.25,2.37,-0.12,vbet
+2026-07-25T19:00:00+00:00,Campeonato Brasileiro A1 - Women,Mixto MT (Wom) vs SE Palmeiras (Wom),fuzzy,100.0,9.8,6.6,18.0,19.0,-1.0,vbet,7.5,8.3,-0.8,vbet,1.1,1.12,-0.02,vbet
+2026-07-25T20:00:00+00:00,Campeonato Brasileiro A1 - Women,RB Bragantino (Wom) vs Atletico MG (Wom),fuzzy,100.0,11.54,7.01,1.66,1.73,-0.07,vbet,3.5,3.58,-0.08,vbet,4.4,4.7,-0.3,vbet
+2026-07-26T14:00:00+00:00,Campeonato Brasileiro A1 - Women,Corinthians SP (Wom) vs EC Vitoria BA (Wom),fuzzy,100.0,10.34,6.98,1.03,1.03,0.0,equal,11.0,15.0,-4.0,vbet,24.0,31.0,-7.0,vbet
+2026-07-26T18:00:00+00:00,Campeonato Brasileiro A1 - Women,EC Juventude RS (Wom) vs Ferroviaria Araraquara SP (Wom),fuzzy,100.0,10.35,7.23,7.0,7.2,-0.2,vbet,3.9,3.88,0.02,toto,1.42,1.48,-0.06,vbet
+2026-07-27T22:00:00+00:00,Campeonato Brasileiro A1 - Women,EC Bahia (Wom) vs Botafogo (Wom),fuzzy,100.0,11.34,7.13,1.27,1.29,-0.02,vbet,4.8,5.1,-0.3,vbet,8.5,10.0,-1.5,vbet
+2026-07-23T17:45:00+00:00,Campeonato Carioca C,Barra Mansa FC vs SE de Buzios,fuzzy,100.0,12.12,7.19,1.76,1.85,-0.09,vbet,3.3,3.41,-0.11,vbet,4.0,4.2,-0.2,vbet
+2026-07-23T17:45:00+00:00,Campeonato Carioca C,Campos AA vs Cardoso Moreira FC,fuzzy,100.0,11.79,6.92,2.85,3.07,-0.22,vbet,3.1,3.28,-0.18,vbet,2.25,2.28,-0.03,vbet
+2026-07-23T19:00:00+00:00,U20 Campeonato Brasileiro,RB Bragantino U20 vs SE Palmeiras U20,fuzzy,100.0,10.27,6.97,2.2,2.26,-0.06,vbet,3.6,3.72,-0.12,vbet,2.7,2.79,-0.09,vbet
+2026-07-23T23:00:00+00:00,U20 Campeonato Brasileiro,Ceara SC U20 vs Goias EC U20,fuzzy,100.0,8.66,6.98,1.79,1.79,0.0,equal,3.45,3.59,-0.14,vbet,4.2,4.3,-0.1,vbet
+2026-07-24T18:15:00+00:00,First League,FK Arda Kardzhali vs PFK Slavia Sofia,fuzzy,100.0,7.05,6.8,1.65,1.64,0.01,toto,3.65,3.71,-0.06,vbet,5.25,5.3,-0.05,vbet
+2026-07-27T18:15:00+00:00,First League,CSKA Sofia vs Botev Plovdiv,fuzzy,100.0,7.36,6.86,1.57,1.6,-0.03,vbet,3.95,3.98,-0.03,vbet,5.45,5.2,0.25,toto
+2026-07-26T16:00:00+00:00,First League,Cherno More Varna vs Spartak Varna,fuzzy,100.0,5.25,6.88,1.74,1.75,-0.01,vbet,3.6,3.41,0.19,toto,5.0,4.9,0.1,toto
+2026-07-27T16:00:00+00:00,First League,FC Dunav Ruse vs PFC Ludogorets Razgrad,fuzzy,100.0,5.16,6.94,9.0,7.5,1.5,toto,5.15,4.85,0.3,toto,1.34,1.37,-0.03,vbet
+2026-07-25T18:15:00+00:00,First League,Lokomotiv Sofia vs PFK Levski Sofia,fuzzy,100.0,7.72,7.33,6.0,6.0,0.0,equal,4.1,4.33,-0.23,vbet,1.5,1.48,0.02,toto
+2026-07-26T18:15:00+00:00,First League,Lokomotiv Plovdiv vs FC Septemvri Sofia,fuzzy,100.0,7.44,7.01,1.73,1.73,0.0,equal,3.25,3.19,0.06,toto,5.3,5.6,-0.3,vbet
+2026-07-25T16:00:00+00:00,First League,CSKA 1948 Sofia vs Botev Vratsa,fuzzy,100.0,5.74,6.67,1.43,1.46,-0.03,vbet,4.45,4.3,0.15,toto,7.5,6.7,0.8,toto
+2026-07-24T22:00:00+00:00,Canadian Premier League,HFX Wanderers vs FC Supra du Quebec,fuzzy,100.0,9.29,6.91,2.1,2.21,-0.11,vbet,3.4,3.53,-0.13,vbet,3.1,3.0,0.1,toto
+2026-07-25T02:00:00+00:00,Canadian Premier League,Vancouver FC vs Cavalry FC,fuzzy,100.0,9.09,6.97,3.0,3.03,-0.03,vbet,3.3,3.3,0.0,equal,2.2,2.29,-0.09,vbet
+2026-07-26T18:00:00+00:00,Canadian Premier League,Atletico Ottawa vs FC Pacific Greater Victoria,fuzzy,100.0,10.15,6.88,1.49,1.52,-0.03,vbet,4.2,4.5,-0.3,vbet,5.2,5.3,-0.1,vbet
+2026-07-26T21:00:00+00:00,Canadian Premier League,Inter Toronto FC vs Forge FC,fuzzy,100.0,10.52,7.06,4.2,4.3,-0.1,vbet,3.5,3.62,-0.12,vbet,1.72,1.78,-0.06,vbet
+2026-07-25T21:30:00+00:00,Liga de Primera,CD Huachipato vs CD Cobresal,fuzzy,100.0,7.37,6.98,1.6,1.6,0.0,equal,3.9,3.96,-0.06,vbet,5.2,5.2,0.0,equal
+2026-07-25T00:30:00+00:00,Liga de Primera,CD Colo Colo vs Deportes Limache,fuzzy,100.0,7.89,6.9,1.46,1.46,0.0,equal,4.4,4.6,-0.2,vbet,6.0,6.0,0.0,equal
+2026-07-26T21:30:00+00:00,Liga de Primera,Audax Italiano vs Universidad de Chile,fuzzy,100.0,6.99,7.08,3.1,3.11,-0.01,vbet,3.2,3.18,0.02,toto,2.3,2.3,0.0,equal
+2026-07-26T00:00:00+00:00,Liga de Primera,CD Universidad Catolica Santiago vs CD La Serena,fuzzy,100.0,6.96,7.42,1.48,1.47,0.01,toto,4.4,4.4,0.0,equal,6.0,6.0,0.0,equal
+2026-07-26T19:00:00+00:00,Liga de Primera,Deportivo Nublense vs CD Palestino,fuzzy,100.0,7.01,7.0,2.2,2.22,-0.02,vbet,3.2,3.15,0.05,toto,3.3,3.31,-0.01,vbet
+2026-07-27T00:30:00+00:00,Liga de Primera,Deportes Concepcion vs O´Higgins FC,fuzzy,100.0,7.94,6.88,2.35,2.43,-0.08,vbet,3.3,3.39,-0.09,vbet,2.85,2.76,0.09,toto
+2026-07-25T11:35:00+00:00,Super League,Shanghai Port FC vs Shanghai Greenland Shenhua,fuzzy,100.0,8.24,6.93,2.3,2.31,-0.01,vbet,3.7,3.74,-0.04,vbet,2.65,2.71,-0.06,vbet
+2026-07-25T11:35:00+00:00,Super League,Liaoning Tieren vs Qingdao West Coast FC,fuzzy,100.0,8.6,7.08,2.05,2.12,-0.07,vbet,3.5,3.55,-0.05,vbet,3.2,3.15,0.05,toto
+2026-07-26T12:00:00+00:00,Super League,Zhejiang Professional FC vs Dalian Yingbo FC,fuzzy,100.0,8.65,7.12,1.86,1.89,-0.03,vbet,3.8,3.84,-0.04,vbet,3.5,3.55,-0.05,vbet
+2026-07-26T11:35:00+00:00,Super League,Shandong Taishan FC vs Henan FC,fuzzy,100.0,8.59,7.0,1.96,2.0,-0.04,vbet,3.8,3.84,-0.04,vbet,3.2,3.23,-0.03,vbet
+2026-07-26T11:35:00+00:00,Super League,Chengdu Rongcheng FC vs Beijing Guoan FC,fuzzy,100.0,8.24,6.97,1.88,1.86,0.02,toto,3.9,4.1,-0.2,vbet,3.4,3.47,-0.07,vbet
+2026-07-26T11:00:00+00:00,Super League,Yunnan Yukun vs Shenzhen Peng City,fuzzy,100.0,8.13,7.11,1.76,1.79,-0.03,vbet,4.0,4.0,0.0,equal,3.8,3.81,-0.01,vbet
+2026-07-24T23:10:00+00:00,Primera A,Llaneros FC Villavicencio vs Deportivo Pereira,fuzzy,100.0,6.75,7.15,1.62,1.6,0.02,toto,3.6,3.61,-0.01,vbet,5.8,5.9,-0.1,vbet
+2026-07-25T01:15:00+00:00,Primera A,Deportivo Cali vs Jaguares de Cordoba,fuzzy,100.0,7.49,7.24,1.52,1.52,0.0,equal,3.8,3.77,0.03,toto,6.5,6.7,-0.2,vbet
+2026-07-25T21:00:00+00:00,Primera A,Boyaca Chico vs Atletico Nacional Medellin,fuzzy,100.0,6.77,6.82,5.8,6.2,-0.4,vbet,3.7,3.65,0.05,toto,1.6,1.58,0.02,toto
+2026-07-25T21:05:00+00:00,Primera A,Independiente Medellin vs Deportivo Pasto,fuzzy,100.0,6.71,6.8,1.72,1.74,-0.02,vbet,3.5,3.41,0.09,toto,5.0,5.0,0.0,equal
+2026-07-25T23:10:00+00:00,Primera A,Millonarios FC vs Atletico Bucaramanga,fuzzy,100.0,8.25,7.16,1.88,1.87,0.01,toto,3.2,3.23,-0.03,vbet,4.2,4.4,-0.2,vbet
+2026-07-26T01:15:00+00:00,Primera A,Deportes Tolima vs Atletico Junior Barranquilla,fuzzy,100.0,6.9,7.0,2.16,1.93,0.23,toto,2.86,2.99,-0.13,vbet,3.9,4.6,-0.7,vbet
+2026-07-26T19:00:00+00:00,Primera A,Internacional de Bogota vs America de Cali,fuzzy,100.0,8.11,7.03,2.7,2.69,0.01,toto,3.0,3.1,-0.1,vbet,2.65,2.66,-0.01,vbet
+2026-07-26T23:10:00+00:00,Primera A,Alianza Valledupar vs Fortaleza CEIF,fuzzy,100.0,7.98,7.03,2.1,2.11,-0.01,vbet,3.0,3.02,-0.02,vbet,3.7,3.77,-0.07,vbet
+2026-07-27T01:15:00+00:00,Primera A,Once Caldas vs Cucuta Deportivo,fuzzy,100.0,7.06,7.11,1.45,1.43,0.02,toto,4.2,4.33,-0.13,vbet,7.0,7.1,-0.1,vbet
+2026-07-24T00:00:00+00:00,LFP - Women,Deportivo Cali (Wom) vs America de Cali (Wom),fuzzy,100.0,11.19,7.15,2.2,2.31,-0.11,vbet,2.9,2.94,-0.04,vbet,3.2,3.35,-0.15,vbet
+2026-07-26T02:00:00+00:00,Primera Division,Sporting San Jose FC vs LD Alajuelense,fuzzy,100.0,7.01,7.07,3.3,3.35,-0.05,vbet,3.1,3.07,0.03,toto,2.25,2.24,0.01,toto
+2026-07-25T15:00:00+00:00,First League,FC Zlin vs FC Banik Ostrava,fuzzy,100.0,7.45,7.14,3.15,3.21,-0.06,vbet,3.4,3.47,-0.07,vbet,2.16,2.12,0.04,toto
+2026-07-25T15:00:00+00:00,First League,FK Teplice vs Bohemians 1905,fuzzy,100.0,6.91,6.87,2.36,2.41,-0.05,vbet,3.05,2.89,0.16,toto,3.15,3.25,-0.1,vbet
+2026-07-25T15:00:00+00:00,First League,FC Viktoria Plzen vs FC Slovan Liberec,fuzzy,100.0,7.26,7.18,1.54,1.51,0.03,toto,4.2,4.33,-0.13,vbet,5.4,5.6,-0.2,vbet
+2026-07-26T13:00:00+00:00,First League,SK Slavia Praha vs 1.FC Slovacko,fuzzy,100.0,8.92,6.93,1.17,1.18,-0.01,vbet,6.5,6.9,-0.4,vbet,12.4,13.0,-0.6,vbet
+2026-07-26T15:30:00+00:00,First League,FK Jablonec vs SK Sigma Olomouc,fuzzy,100.0,7.02,6.98,2.26,2.29,-0.03,vbet,3.45,3.4,0.05,toto,2.96,2.95,0.01,toto
+2026-07-26T18:00:00+00:00,First League,FC Hradec Kralove vs FK Pardubice,fuzzy,100.0,6.91,6.83,1.84,1.84,0.0,equal,3.55,3.56,-0.01,vbet,4.1,4.1,0.0,equal
+2026-07-27T16:00:00+00:00,First League,SK Artis Brno vs FK Mlada Boleslav,fuzzy,100.0,6.85,6.88,3.85,3.99,-0.14,vbet,3.65,3.64,0.01,toto,1.87,1.84,0.03,toto
+2026-07-24T16:00:00+00:00,Czech Cup,FC Strani vs FC Vsetin,fuzzy,100.0,7.54,6.94,2.7,2.77,-0.07,vbet,3.7,3.76,-0.06,vbet,2.3,2.26,0.04,toto
+2026-07-24T16:00:00+00:00,Czech Cup,TJ Tatran Vsechovice vs TJ Unie Hlubina,fuzzy,100.0,7.75,6.92,5.2,5.4,-0.2,vbet,4.4,4.6,-0.2,vbet,1.52,1.5,0.02,toto
+2026-07-24T16:00:00+00:00,FNL,SK Hanacka Slavia Kromeriz vs FC Silon Taborsko,fuzzy,100.0,8.25,7.04,2.4,2.43,-0.03,vbet,3.4,3.45,-0.05,vbet,2.69,2.71,-0.02,vbet
+2026-07-24T16:00:00+00:00,FNL,FC Vysocina Jihlava vs FK Viktoria Zizkov,fuzzy,100.0,9.02,6.97,2.05,2.07,-0.02,vbet,3.45,3.55,-0.1,vbet,3.2,3.28,-0.08,vbet
+2026-07-25T12:00:00+00:00,1st Division,Hvidovre IF vs Vendsyssel FF,fuzzy,100.0,9.15,7.06,1.84,1.85,-0.01,vbet,3.6,3.86,-0.26,vbet,3.7,3.69,0.01,toto
+2026-07-24T17:00:00+00:00,1st Division,Aalborg BK vs Hillerod Fodbold,fuzzy,100.0,9.61,7.08,2.05,2.05,0.0,equal,3.5,3.62,-0.12,vbet,3.1,3.26,-0.16,vbet
+2026-07-25T13:00:00+00:00,1st Division,Esbjerg fB vs Kolding IF,fuzzy,100.0,10.04,6.88,2.0,2.04,-0.04,vbet,3.6,3.86,-0.26,vbet,3.1,3.13,-0.03,vbet
+2026-07-25T14:00:00+00:00,1st Division,FC Fredericia vs HB Koge,fuzzy,100.0,9.1,6.95,1.56,1.57,-0.01,vbet,4.0,4.3,-0.3,vbet,5.0,5.0,0.0,equal
+2026-07-27T17:00:00+00:00,Superliga,Randers FC vs Silkeborg IF,fuzzy,100.0,5.35,6.93,1.78,1.77,0.01,toto,3.9,3.84,0.06,toto,4.25,4.1,0.15,toto
+2026-07-26T12:00:00+00:00,Superliga,SonderjyskE vs FC Midtjylland,fuzzy,100.0,5.12,7.27,5.3,5.1,0.2,toto,4.6,4.4,0.2,toto,1.55,1.54,0.01,toto
+2026-07-26T14:00:00+00:00,Superliga,FC Copenhagen vs Lyngby BK,fuzzy,100.0,5.06,6.78,1.41,1.38,0.03,toto,5.3,5.1,0.2,toto,6.55,6.8,-0.25,vbet
+2026-07-25T16:00:00+00:00,Superliga,Aarhus GF vs Brondby IF,fuzzy,100.0,5.03,7.11,2.23,2.22,0.01,toto,3.65,3.58,0.07,toto,3.05,2.93,0.12,toto
+2026-07-24T17:00:00+00:00,Superliga,Viborg FF vs Odense BK,fuzzy,100.0,5.2,6.9,1.89,1.88,0.01,toto,3.85,3.66,0.19,toto,3.8,3.79,0.01,toto
+2026-07-23T21:30:00+00:00,Serie A,Orense SC vs SD Aucas,fuzzy,100.0,6.74,7.04,2.5,2.45,0.05,toto,3.1,3.03,0.07,toto,2.9,3.01,-0.11,vbet
+2026-07-23T21:30:00+00:00,Serie A,CD Leones Del Norte vs Guayaquil City FC,fuzzy,100.0,7.06,7.2,1.76,1.74,0.02,toto,3.4,3.41,-0.01,vbet,4.8,4.9,-0.1,vbet
+2026-07-24T00:00:00+00:00,Serie A,CS Emelec vs Mushuc Runa SC,fuzzy,100.0,7.33,7.14,1.82,1.8,0.02,toto,3.5,3.6,-0.1,vbet,4.2,4.2,0.0,equal
+2026-07-27T00:15:00+00:00,Serie A,Barcelona Guayaquil vs LDU Quito,fuzzy,100.0,6.99,7.0,2.3,2.28,0.02,toto,3.1,3.02,0.08,toto,3.2,3.33,-0.13,vbet
+2026-07-26T00:00:00+00:00,Serie A,Tecnico Universitario vs Manta FC,fuzzy,100.0,8.17,7.03,1.68,1.65,0.03,toto,3.4,3.5,-0.1,vbet,5.2,5.6,-0.4,vbet
+2026-07-23T20:30:00+00:00,Serie B,Independiente Juniors vs Vinotinto FC Ecuador,fuzzy,100.0,11.79,7.06,2.25,2.25,0.0,equal,2.85,2.89,-0.04,vbet,3.1,3.57,-0.47,vbet
+2026-07-23T15:30:00+00:00,Kakkonen,TP-47 vs JS Hercules,fuzzy,100.0,11.18,4.92,1.44,1.55,-0.11,vbet,4.6,5.0,-0.4,vbet,5.0,4.9,0.1,toto
+2026-07-24T16:00:00+00:00,Ykkonen,FC Jazz Pori vs TPV Tampere,fuzzy,100.0,11.4,7.21,2.0,2.07,-0.07,vbet,3.8,4.0,-0.2,vbet,2.85,2.95,-0.1,vbet
+2026-07-24T16:00:00+00:00,Veikkausliiga,FF Jaro vs SJK,fuzzy,100.0,5.58,6.92,3.35,3.17,0.18,toto,3.85,3.83,0.02,toto,2.01,2.03,-0.02,vbet
+2026-07-25T13:30:00+00:00,Veikkausliiga,IFK Mariehamn vs AC Oulu,fuzzy,100.0,5.45,6.89,5.15,5.1,0.05,toto,4.25,4.1,0.15,toto,1.6,1.59,0.01,toto
+2026-07-25T14:00:00+00:00,Veikkausliiga,KuPS Kuopio vs VPS,fuzzy,100.0,5.26,6.92,1.94,1.94,0.0,equal,3.8,3.79,0.01,toto,3.65,3.45,0.2,toto
+2026-07-26T12:00:00+00:00,Veikkausliiga,FC Ilves vs FC Lahti,fuzzy,100.0,5.5,7.1,2.17,2.21,-0.04,vbet,3.85,3.79,0.06,toto,2.99,2.82,0.17,toto
+2026-07-26T12:00:00+00:00,Veikkausliiga,Inter Turku vs IF Gnistan,fuzzy,100.0,5.09,6.84,1.74,1.74,0.0,equal,3.9,3.83,0.07,toto,4.55,4.3,0.25,toto
+2026-07-23T15:15:00+00:00,Kolmonen,JyTy Turku vs Maskun Palloseura,fuzzy,100.0,7.77,7.37,4.2,4.1,0.1,toto,4.35,4.2,0.15,toto,1.64,1.69,-0.05,vbet
+2026-07-23T15:30:00+00:00,Kolmonen,KoPa vs Peli-Karhut,fuzzy,100.0,13.43,5.15,5.2,5.9,-0.7,vbet,4.6,5.2,-0.6,vbet,1.38,1.45,-0.07,vbet
+2026-07-23T15:30:00+00:00,Kolmonen,VG-62 Naantali vs ACF,fuzzy,100.0,12.17,6.87,1.41,1.46,-0.05,vbet,4.4,4.8,-0.4,vbet,5.4,5.7,-0.3,vbet
+2026-07-23T16:00:00+00:00,Kolmonen,Nykarleby IK vs Vasa IFK,fuzzy,100.0,11.59,7.19,10.0,10.0,0.0,equal,6.5,7.6,-1.1,vbet,1.16,1.19,-0.03,vbet
+2026-07-23T16:00:00+00:00,Kolmonen,FC Kiisto vs FC Ylivieska,fuzzy,100.0,12.05,7.23,1.2,1.21,-0.01,vbet,6.5,7.8,-1.3,vbet,7.5,8.5,-1.0,vbet
+2026-07-25T12:00:00+00:00,Ykkosliiga,FC Haka Valkeakoski vs KaPa,fuzzy,100.0,11.34,6.91,1.39,1.42,-0.03,vbet,4.4,4.85,-0.45,vbet,6.0,6.3,-0.3,vbet
+2026-07-25T13:00:00+00:00,Ykkosliiga,Mikkelin Palloilijat vs Kotkan Tyovaen Palloilijat,fuzzy,100.0,10.02,7.19,5.2,5.3,-0.1,vbet,4.0,4.2,-0.2,vbet,1.52,1.55,-0.03,vbet
+2026-07-25T15:00:00+00:00,Ykkosliiga,PK-35 Helsinki vs JIPPO,fuzzy,100.0,11.01,6.94,2.6,2.69,-0.09,vbet,3.0,3.21,-0.21,vbet,2.55,2.59,-0.04,vbet
+2026-08-16T18:45:00+00:00,Super Cup,Lens vs Paris Saint-Germain,fuzzy,100.0,5.28,6.97,4.45,4.4,0.05,toto,3.8,3.69,0.11,toto,1.77,1.75,0.02,toto
+2026-07-24T15:00:00+00:00,Georgian Cup,FC Margveti 2006 vs Iberia 1999,fuzzy,100.0,9.71,6.75,16.0,19.0,-3.0,vbet,10.0,14.0,-4.0,vbet,1.07,1.06,0.01,toto
+2026-08-29T13:30:00+00:00,Bundesliga,SV Elversberg vs Bayer 04 Leverkusen,fuzzy,100.0,5.34,7.16,5.5,5.0,0.5,toto,4.5,4.5,0.0,equal,1.54,1.54,0.0,equal
+2026-08-29T13:30:00+00:00,Bundesliga,1.FC Koln vs TSG 1899 Hoffenheim,fuzzy,100.0,5.36,6.95,2.81,2.75,0.06,toto,3.65,3.59,0.06,toto,2.36,2.34,0.02,toto
+2026-08-29T13:30:00+00:00,Bundesliga,RB Leipzig vs Borussia Monchengladbach,fuzzy,100.0,7.24,7.24,1.52,1.52,0.0,equal,4.5,4.5,0.0,equal,5.2,5.2,0.0,equal
+2026-08-29T13:30:00+00:00,Bundesliga,1. FC Union Berlin vs Eintracht Frankfurt,fuzzy,100.0,5.26,7.06,2.36,2.34,0.02,toto,3.45,3.45,0.0,equal,2.95,2.83,0.12,toto
+2026-08-29T13:30:00+00:00,Bundesliga,1. FSV Mainz 05 vs Paderborn 07,fuzzy,100.0,6.58,7.0,1.68,1.68,0.0,equal,3.95,3.96,-0.01,vbet,4.6,4.5,0.1,toto
+2026-08-28T18:30:00+00:00,Bundesliga,Bayern Munich vs VfB Stuttgart,fuzzy,100.0,5.59,7.16,1.28,1.28,0.0,equal,6.55,6.3,0.25,toto,8.2,7.6,0.6,toto
+2026-08-30T15:30:00+00:00,Bundesliga,Augsburg vs Schalke 04,fuzzy,100.0,5.32,6.91,2.08,2.07,0.01,toto,3.65,3.67,-0.02,vbet,3.35,3.19,0.16,toto
+2026-08-22T18:30:00+00:00,DFL Supercup,Borussia Dortmund vs Bayern Munich,fuzzy,100.0,5.34,6.64,4.8,4.7,0.1,toto,4.25,4.1,0.15,toto,1.64,1.64,0.0,equal
+2026-08-12T18:00:00+00:00,Super Cup,AEK Athens vs OFI Crete FC,fuzzy,100.0,8.14,7.05,1.49,1.5,-0.01,vbet,3.9,4.0,-0.1,vbet,6.5,6.5,0.0,equal
+2026-07-25T00:00:00+00:00,Liga Nacional,Antigua GFC vs CD Marquense,fuzzy,100.0,11.4,6.77,1.41,1.45,-0.04,vbet,4.2,4.33,-0.13,vbet,6.0,6.8,-0.8,vbet
+2026-07-25T02:00:00+00:00,Liga Nacional,CSD Municipal vs FC Deportivo Mixco,fuzzy,100.0,10.56,7.16,1.38,1.41,-0.03,vbet,4.2,4.4,-0.2,vbet,7.0,7.4,-0.4,vbet
+2026-07-24T18:00:00+00:00,NB I,Nyiregyhaza Spartacus vs Ujpest FC,fuzzy,100.0,6.83,7.02,2.18,2.17,0.01,toto,3.55,3.58,-0.03,vbet,3.05,3.03,0.02,toto
+2026-07-26T16:00:00+00:00,NB I,Debreceni VSC vs Puskas Academy,fuzzy,100.0,7.09,6.81,2.21,2.21,0.0,equal,3.55,3.45,0.1,toto,2.97,3.07,-0.1,vbet
+2026-07-27T17:30:00+00:00,NB I,MTK Budapest FC vs Zalaegerszeg TE,fuzzy,100.0,6.72,7.09,2.16,2.13,0.03,toto,3.55,3.6,-0.05,vbet,3.1,3.09,0.01,toto
+2026-07-26T18:00:00+00:00,NB I,Paksi SE vs Ferencvarosi TC,fuzzy,100.0,7.26,6.59,4.1,4.3,-0.2,vbet,4.1,4.2,-0.1,vbet,1.71,1.68,0.03,toto
+2026-07-24T20:00:00+00:00,Urvalsdeild,Vikingur Reykjavik vs Keflavik,fuzzy,100.0,8.43,7.03,1.25,1.23,0.02,toto,6.55,6.9,-0.35,vbet,7.6,8.9,-1.3,vbet
+2026-07-26T19:15:00+00:00,Urvalsdeild,Fram Reykjavik vs FH Hafnarfjordur,fuzzy,100.0,7.73,6.72,1.49,1.49,0.0,equal,4.85,5.1,-0.25,vbet,5.0,5.0,0.0,equal
+2026-07-26T19:15:00+00:00,Urvalsdeild,IA Akranes vs Stjarnan FC,fuzzy,100.0,6.91,6.71,2.24,2.23,0.01,toto,4.15,4.3,-0.15,vbet,2.62,2.59,0.03,toto
+2026-07-27T18:00:00+00:00,Urvalsdeild,Breidablik UBK Kopavogur vs IBV Vestmannaeyjar,fuzzy,100.0,7.31,7.06,1.73,1.7,0.03,toto,4.25,4.4,-0.15,vbet,3.85,3.92,-0.07,vbet
+2026-07-27T19:15:00+00:00,Urvalsdeild,KA Akureyri vs Akureyri,fuzzy,100.0,7.15,6.75,1.68,1.66,0.02,toto,4.25,4.3,-0.05,vbet,4.15,4.3,-0.15,vbet
+2026-07-23T19:15:00+00:00,1. Deild,Leiknir Reykjavik vs Throttur Reykjavik,fuzzy,100.0,10.1,6.92,3.8,4.1,-0.3,vbet,3.9,4.1,-0.2,vbet,1.72,1.72,0.0,equal
+2026-07-24T18:00:00+00:00,1. Deild,Volsungur vs UMF Grindavik,fuzzy,100.0,9.79,7.02,3.1,3.09,0.01,toto,3.7,3.9,-0.2,vbet,1.98,2.04,-0.06,vbet
+2026-07-24T19:15:00+00:00,1. Deild,UMF Njardvik vs HK Kopavogur,fuzzy,100.0,11.51,6.9,2.0,2.08,-0.08,vbet,3.7,3.94,-0.24,vbet,2.9,2.99,-0.09,vbet
+2026-07-25T14:00:00+00:00,1. Deild,IR Reykjavik vs Fylkir Reykjavik,fuzzy,100.0,10.67,6.9,3.4,3.45,-0.05,vbet,3.8,4.0,-0.2,vbet,1.82,1.89,-0.07,vbet
+2026-07-23T19:15:00+00:00,1. Deild - Women,UMF Selfoss (Wom) vs Keflavik (Wom),fuzzy,100.0,12.43,6.98,2.7,2.83,-0.13,vbet,3.6,3.88,-0.28,vbet,2.1,2.18,-0.08,vbet
+2026-07-23T19:15:00+00:00,1. Deild - Women,Volsungur (Wom) vs UMF Tindastoll (Wom),fuzzy,100.0,11.76,7.42,1.11,1.13,-0.02,vbet,7.5,8.9,-1.4,vbet,12.0,13.0,-1.0,vbet
+2026-07-23T19:15:00+00:00,3. Deild,KA Asvellir vs Augnablik Kopavogur,fuzzy,100.0,11.23,7.23,2.85,3.0,-0.15,vbet,3.9,4.1,-0.2,vbet,1.98,2.02,-0.04,vbet
+2026-07-23T19:15:00+00:00,4. Deild,IH Hafnarfjordur vs Hafnir,fuzzy,100.0,12.16,7.08,1.82,1.91,-0.09,vbet,4.4,4.75,-0.35,vbet,2.9,2.97,-0.07,vbet
+2026-07-24T18:45:00+00:00,First Division,Kerry FC vs Finn Harps,fuzzy,100.0,10.03,6.89,1.68,1.71,-0.03,vbet,3.6,3.75,-0.15,vbet,4.4,4.6,-0.2,vbet
+2026-07-24T18:45:00+00:00,First Division,Cobh Ramblers vs Bray Wanderers,fuzzy,100.0,10.23,7.1,2.5,2.55,-0.05,vbet,3.4,3.47,-0.07,vbet,2.45,2.56,-0.11,vbet
+2026-07-25T18:30:00+00:00,First Division,Longford Town vs Wexford FC,fuzzy,100.0,9.52,6.85,2.55,2.63,-0.08,vbet,3.3,3.45,-0.15,vbet,2.5,2.51,-0.01,vbet
+2026-08-24T16:30:00+00:00,Serie A,Bologna vs Lazio,fuzzy,100.0,4.93,6.88,2.13,2.12,0.01,toto,3.4,3.17,0.23,toto,3.5,3.55,-0.05,vbet
+2026-08-23T18:45:00+00:00,Serie A,Torino vs AC Milan,fuzzy,100.0,4.97,6.99,4.45,4.33,0.12,toto,3.8,3.65,0.15,toto,1.78,1.77,0.01,toto
+2026-08-23T18:45:00+00:00,Serie A,Atalanta vs Sassuolo,fuzzy,100.0,5.47,7.34,1.52,1.51,0.01,toto,4.4,4.3,0.1,toto,5.9,5.6,0.3,toto
+2026-08-24T18:45:00+00:00,Serie A,AS Roma vs Fiorentina,fuzzy,100.0,5.19,7.13,1.52,1.52,0.0,equal,4.25,4.1,0.15,toto,6.3,5.9,0.4,toto
+2026-07-24T10:00:00+00:00,WK-League,Suwon FC (Wom) vs Incheon Hyundai Steel Red Angels (Wom),fuzzy,100.0,10.73,7.22,1.46,1.47,-0.01,vbet,4.0,4.2,-0.2,vbet,5.8,6.5,-0.7,vbet
+2026-07-24T10:00:00+00:00,WK-League,Hwacheon KSPO (Wom) vs Mungyeong Sangmu (Wom),fuzzy,100.0,11.31,7.25,1.41,1.44,-0.03,vbet,4.0,4.33,-0.33,vbet,6.5,6.8,-0.3,vbet
+2026-07-24T10:30:00+00:00,K League 2,Gimhae FC vs Chungbuk Cheongju FC,fuzzy,100.0,10.04,7.04,3.0,3.19,-0.19,vbet,3.2,3.33,-0.13,vbet,2.2,2.19,0.01,toto
+2026-07-24T10:30:00+00:00,K League 2,Seoul E-Land FC vs Cheonan City FC,fuzzy,100.0,10.79,6.81,1.52,1.53,-0.01,vbet,4.0,4.5,-0.5,vbet,5.0,5.2,-0.2,vbet
+2026-07-25T10:30:00+00:00,K League 2,Jeonnam Dragons vs Gyeongnam FC,fuzzy,100.0,10.34,6.81,2.45,2.58,-0.13,vbet,3.3,3.45,-0.15,vbet,2.55,2.56,-0.01,vbet
+2026-07-25T10:30:00+00:00,K League 2,Hwaseong FC vs Chungnam Asan FC,fuzzy,100.0,11.09,7.01,2.15,2.29,-0.14,vbet,3.2,3.32,-0.12,vbet,3.0,3.01,-0.01,vbet
+2026-07-25T10:30:00+00:00,K League 2,Daegu FC vs Suwon FC,fuzzy,100.0,10.67,6.68,1.82,1.85,-0.03,vbet,3.8,4.2,-0.4,vbet,3.4,3.47,-0.07,vbet
+2026-07-26T10:30:00+00:00,K League 2,Gimpo FC vs Yongin City FC,fuzzy,100.0,10.89,7.03,1.82,1.87,-0.05,vbet,3.3,3.51,-0.21,vbet,3.9,3.99,-0.09,vbet
+2026-07-25T10:30:00+00:00,K League 1,Pohang Steelers vs Jeonbuk Motors,fuzzy,100.0,5.19,6.99,3.15,3.1,0.05,toto,3.2,3.04,0.16,toto,2.37,2.39,-0.02,vbet
+2026-07-25T10:30:00+00:00,K League 1,Gimcheon Sangmu FC vs Daejeon Citizen FC,fuzzy,100.0,5.39,7.08,2.95,2.97,-0.02,vbet,3.5,3.3,0.2,toto,2.33,2.32,0.01,toto
+2026-07-26T10:30:00+00:00,K League 1,FC Anyang vs Gangwon FC,fuzzy,100.0,5.19,7.36,4.25,4.1,0.15,toto,3.35,3.21,0.14,toto,1.93,1.93,0.0,equal
+2026-07-26T10:30:00+00:00,K League 1,Gwangju FC vs Jeju United FC,fuzzy,100.0,5.5,6.76,4.05,4.1,-0.05,vbet,3.3,3.19,0.11,toto,1.98,1.96,0.02,toto
+2026-07-26T10:30:00+00:00,K League 1,FC Seoul vs Ulsan Hyundai FC,fuzzy,100.0,5.42,6.9,1.92,1.92,0.0,equal,3.75,3.57,0.18,toto,3.75,3.73,0.02,toto
+2026-07-24T16:00:00+00:00,TopLyga,FA Siauliai vs FC Hegelmann,fuzzy,100.0,10.53,6.9,2.45,2.59,-0.14,vbet,3.2,3.2,0.0,equal,2.6,2.7,-0.1,vbet
+2026-07-26T15:45:00+00:00,TopLyga,FK Transinvest vs Dziugas Telsiai,fuzzy,100.0,10.91,7.11,1.9,1.97,-0.07,vbet,3.2,3.25,-0.05,vbet,3.7,3.91,-0.21,vbet
+2026-07-25T03:00:00+00:00,Liga MX,CF Atlante vs Club America,fuzzy,100.0,5.88,6.75,5.0,5.0,0.0,equal,3.9,3.88,0.02,toto,1.66,1.64,0.02,toto
+2026-07-25T03:00:00+00:00,Liga MX,Club Tijuana vs Club Leon,fuzzy,100.0,6.44,6.96,2.0,1.92,0.08,toto,3.7,3.79,-0.09,vbet,3.4,3.51,-0.11,vbet
+2026-07-25T23:07:00+00:00,Liga MX,Chivas Guadalajara vs FC Juarez,fuzzy,100.0,5.97,6.96,1.48,1.42,0.06,toto,4.6,4.9,-0.3,vbet,6.0,6.2,-0.2,vbet
+2026-07-26T03:00:00+00:00,Liga MX,Santos Laguna vs Club Atlas De Guadalajara,fuzzy,100.0,5.8,7.06,2.6,2.55,0.05,toto,3.3,3.19,0.11,toto,2.7,2.74,-0.04,vbet
+2026-07-26T03:00:00+00:00,Liga MX,Tigres UANL vs Atletico San Luis,fuzzy,100.0,6.64,7.09,1.42,1.39,0.03,toto,4.8,5.0,-0.2,vbet,6.5,6.6,-0.1,vbet
+2026-07-26T23:00:00+00:00,Liga MX,Club Necaxa vs CF Monterrey,fuzzy,100.0,5.23,7.08,3.15,2.99,0.16,toto,3.9,3.81,0.09,toto,2.09,2.11,-0.02,vbet
+2026-07-27T01:00:00+00:00,Liga MX,CF Pachuca vs Queretaro FC,fuzzy,100.0,5.36,7.22,1.6,1.56,0.04,toto,4.0,3.78,0.22,toto,5.6,6.0,-0.4,vbet
+2026-07-25T01:00:00+00:00,Liga de Expansion MX,CD Tepatitlan de Morelos vs Alacranes de Durango,fuzzy,100.0,9.76,7.17,1.66,1.68,-0.02,vbet,3.6,3.73,-0.13,vbet,4.6,4.8,-0.2,vbet
+2026-08-07T18:00:00+00:00,Eredivisie,SC Cambuur Leeuwarden vs SBV Excelsior,fuzzy,100.0,5.54,7.09,2.52,2.48,0.04,toto,3.65,3.59,0.06,toto,2.6,2.57,0.03,toto
+2026-08-08T19:00:00+00:00,Eredivisie,AZ Alkmaar vs ADO Den Haag,fuzzy,100.0,5.52,6.94,1.43,1.44,-0.01,vbet,4.95,4.8,0.15,toto,6.5,6.0,0.5,toto
+2026-08-08T16:45:00+00:00,Eredivisie,Go Ahead Eagles vs Willem II Tilburg,fuzzy,100.0,5.44,7.14,1.63,1.6,0.03,toto,4.3,4.2,0.1,toto,4.8,4.8,0.0,equal
+2026-08-08T14:30:00+00:00,Eredivisie,NEC Nijmegen vs SC Telstar,fuzzy,100.0,5.29,6.66,1.4,1.4,0.0,equal,5.25,5.1,0.15,toto,6.75,6.4,0.35,toto
+2026-08-09T12:30:00+00:00,Eredivisie,PEC Zwolle vs Ajax Amsterdam,fuzzy,100.0,5.42,6.71,5.65,5.6,0.05,toto,4.75,4.6,0.15,toto,1.5,1.49,0.01,toto
+2026-08-09T12:30:00+00:00,Eredivisie,Groningen vs Utrecht,fuzzy,100.0,5.47,6.99,2.24,2.25,-0.01,vbet,3.5,3.36,0.14,toto,3.1,3.05,0.05,toto
+2026-08-02T16:00:00+00:00,Super Cup,PSV Eindhoven vs AZ Alkmaar,fuzzy,100.0,8.83,6.63,1.42,1.44,-0.02,vbet,4.6,4.75,-0.15,vbet,6.0,6.2,-0.2,vbet
+2026-07-26T15:00:00+00:00,Eliteserien,Sandefjord Fotball vs FK Bodo/Glimt,fuzzy,100.0,5.26,7.01,7.1,6.6,0.5,toto,5.5,5.3,0.2,toto,1.37,1.37,0.0,equal
+2026-07-27T17:00:00+00:00,Eliteserien,Rosenborg vs Fredrikstad FK,fuzzy,100.0,5.33,6.93,1.7,1.67,0.03,toto,4.0,3.88,0.12,toto,4.65,4.7,-0.05,vbet
+2026-07-25T14:00:00+00:00,Eliteserien,Kristiansund BK vs IK Start,fuzzy,100.0,5.48,7.04,2.19,2.18,0.01,toto,3.7,3.51,0.19,toto,3.05,3.06,-0.01,vbet
+2026-07-26T15:00:00+00:00,Eliteserien,KFUM Oslo vs Molde FK,fuzzy,100.0,5.01,7.15,3.1,2.95,0.15,toto,3.75,3.74,0.01,toto,2.17,2.15,0.02,toto
+2026-07-26T12:30:00+00:00,Eliteserien,SK Brann vs Valerenga,fuzzy,100.0,5.26,6.93,1.72,1.73,-0.01,vbet,4.4,4.2,0.2,toto,4.1,3.95,0.15,toto
+2026-07-25T01:30:00+00:00,LPF,CD Arabe Unido vs CD Plaza Amador,fuzzy,100.0,11.77,6.78,3.8,4.1,-0.3,vbet,3.1,3.3,-0.2,vbet,1.88,1.92,-0.04,vbet
+2026-07-24T21:30:00+00:00,Primera Division,Club Cerro Porteno Asuncion vs Sportivo Trinidense,fuzzy,100.0,7.57,7.28,1.84,1.85,-0.01,vbet,3.4,3.4,0.0,equal,4.2,4.2,0.0,equal
+2026-07-24T19:00:00+00:00,Primera Division,Club 2 de Mayo vs Club Rubio Nu,fuzzy,100.0,6.97,7.04,2.45,2.44,0.01,toto,2.95,2.95,0.0,equal,3.1,3.11,-0.01,vbet
+2026-07-25T19:00:00+00:00,Primera Division,Deportivo Recoleta vs Sportivo San Lorenzo,fuzzy,100.0,7.4,7.1,1.88,1.83,0.05,toto,3.5,3.73,-0.23,vbet,3.9,3.9,0.0,equal
+2026-07-26T21:30:00+00:00,Primera Division,Club Guarani Asuncion vs Sportivo Luqueno,fuzzy,100.0,7.06,6.87,2.05,2.04,0.01,toto,3.2,3.2,0.0,equal,3.7,3.76,-0.06,vbet
+2026-07-26T19:00:00+00:00,Primera Division,Club Olimpia Asuncion vs Club Libertad,fuzzy,100.0,7.69,7.11,1.98,1.91,0.07,toto,3.4,3.56,-0.16,vbet,3.6,3.75,-0.15,vbet
+2026-07-23T18:30:00+00:00,Cup,Sportivo Iteno vs Deportivo Capiata,fuzzy,100.0,11.95,7.04,4.7,5.2,-0.5,vbet,3.55,3.78,-0.23,vbet,1.6,1.63,-0.03,vbet
+2026-07-24T20:00:00+00:00,Liga 1,Alianza Atletico Sullana vs CD Los Chankas,fuzzy,100.0,7.94,7.13,1.8,1.78,0.02,toto,3.5,3.59,-0.09,vbet,4.2,4.33,-0.13,vbet
+2026-07-25T01:30:00+00:00,Liga 1,Universitario De Deportes vs Cusco FC,fuzzy,100.0,7.56,7.09,1.44,1.46,-0.02,vbet,4.4,4.4,0.0,equal,6.5,6.3,0.2,toto
+2026-07-25T20:15:00+00:00,Liga 1,Juan Pablo II vs Cienciano del Cusco,fuzzy,100.0,8.1,7.05,2.85,2.81,0.04,toto,3.5,3.55,-0.05,vbet,2.25,2.31,-0.06,vbet
+2026-07-26T01:00:00+00:00,Liga 1,FBC Melgar vs Sporting Cristal,fuzzy,100.0,7.18,7.15,1.72,1.69,0.03,toto,3.8,3.96,-0.16,vbet,4.4,4.4,0.0,equal
+2026-07-25T22:30:00+00:00,Liga 1,Sport Boys Association vs ADT Tarma,fuzzy,100.0,7.33,7.23,1.82,1.81,0.01,toto,3.5,3.55,-0.05,vbet,4.2,4.2,0.0,equal
+2026-07-25T18:00:00+00:00,Liga 1,CD Sport Huancayo vs Atletico Grau,fuzzy,100.0,7.3,7.2,1.68,1.69,-0.01,vbet,3.6,3.62,-0.02,vbet,5.0,4.9,0.1,toto
+2026-07-26T18:00:00+00:00,Liga 1,UTC Cajamarca vs CD Moquegua,fuzzy,100.0,7.27,6.68,1.62,1.6,0.02,toto,3.8,3.95,-0.15,vbet,5.2,5.3,-0.1,vbet
+2026-07-26T20:30:00+00:00,Liga 1,CD Comerciantes Unidos vs Alianza Lima,fuzzy,100.0,7.26,7.26,4.0,4.0,0.0,equal,3.1,3.03,0.07,toto,2.0,2.03,-0.03,vbet
+2026-07-27T00:00:00+00:00,Liga 1,Deportivo Garcilaso vs FC Cajamarca,fuzzy,100.0,7.24,7.15,1.54,1.53,0.01,toto,3.9,3.98,-0.08,vbet,6.0,6.0,0.0,equal
+2026-07-24T16:00:00+00:00,Ekstraklasa,RKS Radomiak Radom vs KS Wieczysta Krakow,fuzzy,100.0,5.31,6.98,2.61,2.63,-0.02,vbet,3.6,3.38,0.22,toto,2.55,2.54,0.01,toto
+2026-07-24T18:30:00+00:00,Ekstraklasa,Pogon Szczecin vs Legia Warsaw,fuzzy,100.0,5.19,7.04,2.88,2.88,0.0,equal,3.3,3.11,0.19,toto,2.49,2.49,0.0,equal
+2026-07-25T18:15:00+00:00,Ekstraklasa,KKS Lech Poznan vs KS Cracovia,fuzzy,100.0,5.41,6.88,1.48,1.47,0.01,toto,4.5,4.4,0.1,toto,6.4,6.2,0.2,toto
+2026-07-25T12:45:00+00:00,Ekstraklasa,Jagiellonia Bialystok vs Korona Kielce,fuzzy,100.0,5.11,6.82,1.96,1.96,0.0,equal,3.6,3.45,0.15,toto,3.8,3.73,0.07,toto
+2026-07-25T15:30:00+00:00,Ekstraklasa,Gornik Zabrze vs Slask Wroclaw,fuzzy,100.0,5.29,6.84,1.72,1.73,-0.01,vbet,3.9,3.73,0.17,toto,4.65,4.5,0.15,toto
+2026-07-26T18:15:00+00:00,Ekstraklasa,Wisla Krakow vs GKS Katowice,fuzzy,100.0,5.16,6.93,2.21,2.22,-0.01,vbet,3.55,3.45,0.1,toto,3.15,3.04,0.11,toto
+2026-07-26T15:30:00+00:00,Ekstraklasa,Widzew Lodz vs LKP Motor Lublin,fuzzy,100.0,5.21,6.92,1.65,1.65,0.0,equal,4.0,3.86,0.14,toto,5.1,4.9,0.2,toto
+2026-07-26T12:45:00+00:00,Ekstraklasa,KS Rakow Czestochowa vs Wisla Plock,fuzzy,100.0,7.08,6.98,1.63,1.58,0.05,toto,3.8,3.92,-0.12,vbet,5.15,5.5,-0.35,vbet
+2026-07-27T17:00:00+00:00,Ekstraklasa,Zaglebie Lubin vs Piast Gliwice,fuzzy,100.0,5.45,7.06,2.99,2.86,0.13,toto,3.05,3.18,-0.13,vbet,2.55,2.46,0.09,toto
+2026-07-24T16:00:00+00:00,I Liga,Polonia Bytom vs Warta Poznan,fuzzy,100.0,7.82,6.93,1.86,1.82,0.04,toto,3.7,3.75,-0.05,vbet,3.7,3.95,-0.25,vbet
+2026-07-24T19:00:00+00:00,I Liga,Odra Opole vs Arka Gdynia,fuzzy,100.0,7.33,7.19,3.3,3.19,0.11,toto,3.4,3.41,-0.01,vbet,2.1,2.15,-0.05,vbet
+2026-07-25T13:30:00+00:00,I Liga,Lechia Gdansk vs Pogon Grodzisk Mazowiecki,fuzzy,100.0,7.98,6.91,2.1,2.12,-0.02,vbet,3.7,3.94,-0.24,vbet,3.0,2.91,0.09,toto
+2026-07-25T13:30:00+00:00,I Liga,Stal Rzeszow vs Chrobry Glogow,fuzzy,100.0,7.31,7.14,2.85,2.89,-0.04,vbet,3.6,3.56,0.04,toto,2.25,2.25,0.0,equal
+2026-07-25T13:30:00+00:00,I Liga,Pogon Siedlce vs LKS Lodz,fuzzy,100.0,7.13,7.04,4.0,4.1,-0.1,vbet,3.6,3.65,-0.05,vbet,1.84,1.81,0.03,toto
+2026-07-26T17:30:00+00:00,I Liga,Puszcza Niepolomice vs KSP Polonia Warszawa,fuzzy,100.0,7.45,6.98,2.65,2.63,0.02,toto,3.2,3.16,0.04,toto,2.6,2.68,-0.08,vbet
+2026-07-26T15:00:00+00:00,I Liga,Unia Skierniewice vs FKS Stal Mielec,fuzzy,100.0,6.57,7.04,2.2,2.18,0.02,toto,3.6,3.51,0.09,toto,3.0,3.06,-0.06,vbet
+2026-07-24T16:00:00+00:00,II Liga,MKS Znicz Pruszkow vs CWKS Resovia Rzeszow,fuzzy,100.0,12.66,6.68,1.54,1.62,-0.08,vbet,4.0,4.4,-0.4,vbet,4.4,4.5,-0.1,vbet
+2026-07-25T16:00:00+00:00,II Liga,Swit Szczecin vs Gornik Leczna,fuzzy,100.0,11.08,6.9,2.81,2.94,-0.13,vbet,3.45,3.4,0.05,toto,2.15,2.3,-0.15,vbet
+2026-07-25T17:10:00+00:00,II Liga,Sandecja Nowy Sacz vs Hutnik Krakow,fuzzy,100.0,11.32,6.95,1.86,1.94,-0.08,vbet,3.5,3.61,-0.11,vbet,3.45,3.61,-0.16,vbet
+2026-07-25T18:00:00+00:00,II Liga,KS Lechia Zielona Gora vs BTS Rekord Bielsko-Biala,fuzzy,100.0,10.92,6.99,2.24,2.3,-0.06,vbet,3.3,3.39,-0.09,vbet,2.78,2.94,-0.16,vbet
+2026-07-26T14:00:00+00:00,II Liga,Avia Swidnik vs GKS Olimpia Grudziadz,fuzzy,100.0,11.16,7.03,2.49,2.68,-0.19,vbet,3.35,3.33,0.02,toto,2.43,2.52,-0.09,vbet
+2026-07-26T17:30:00+00:00,II Liga,MKS Chojniczanka Chojnice vs GKS Tychy,fuzzy,100.0,10.82,7.12,2.47,2.61,-0.14,vbet,3.35,3.28,0.07,toto,2.47,2.61,-0.14,vbet
+2026-07-24T18:30:00+00:00,Superliga,FC Arges vs Petrolul Ploiesti,fuzzy,100.0,7.12,6.91,2.18,2.17,0.01,toto,3.1,3.1,0.0,equal,3.45,3.5,-0.05,vbet
+2026-07-24T15:30:00+00:00,Superliga,FC UTA Arad vs FC Otelul Galati,fuzzy,100.0,7.37,7.01,2.08,2.09,-0.01,vbet,3.3,3.26,0.04,toto,3.45,3.51,-0.06,vbet
+2026-07-26T17:30:00+00:00,Superliga,AFK Csikszereda Miercurea Ciuc vs FCSB,fuzzy,100.0,7.11,6.91,4.7,4.8,-0.1,vbet,3.75,3.87,-0.12,vbet,1.69,1.66,0.03,toto
+2026-07-26T14:30:00+00:00,Superliga,ACS Sepsi OSK vs FC Universitatea Cluj,fuzzy,100.0,7.06,6.98,2.86,2.85,0.01,toto,3.25,3.12,0.13,toto,2.42,2.51,-0.09,vbet
+2026-07-25T17:30:00+00:00,Superliga,FC Dinamo Bucuresti vs Universitatea Craiova,fuzzy,100.0,7.01,6.99,2.69,2.68,0.01,toto,3.25,3.37,-0.12,vbet,2.56,2.5,0.06,toto
+2026-07-27T18:30:00+00:00,Superliga,FC Botosani vs FC Rapid Bucuresti,fuzzy,100.0,6.87,6.97,2.94,3.03,-0.09,vbet,3.3,3.13,0.17,toto,2.35,2.38,-0.03,vbet
+2026-07-25T14:30:00+00:00,Superliga,FCV Farul Constanta vs Corvinul 1921 Hunedoara,fuzzy,100.0,7.09,7.01,2.11,2.11,0.0,equal,3.35,3.33,0.02,toto,3.35,3.38,-0.03,vbet
+2026-08-01T15:30:00+00:00,Superliga,FC Voluntari vs FC UTA Arad,fuzzy,100.0,7.08,7.04,2.6,2.57,0.03,toto,3.1,3.11,-0.01,vbet,2.75,2.78,-0.03,vbet
+2026-08-01T18:30:00+00:00,Superliga,Universitatea Craiova vs Petrolul Ploiesti,fuzzy,100.0,7.57,6.7,1.42,1.43,-0.01,vbet,4.2,4.3,-0.1,vbet,7.5,7.4,0.1,toto
+2026-07-31T18:30:00+00:00,Superliga,FC Otelul Galati vs FC Dinamo Bucuresti,fuzzy,100.0,7.33,7.06,3.45,3.47,-0.02,vbet,3.1,3.13,-0.03,vbet,2.17,2.16,0.01,toto
+2026-08-03T18:30:00+00:00,Superliga,FCSB vs FCV Farul Constanta,fuzzy,100.0,7.77,7.21,1.78,1.78,0.0,equal,3.6,3.58,0.02,toto,4.2,4.33,-0.13,vbet
+2026-07-31T15:30:00+00:00,Superliga,FC Arges vs AFK Csikszereda Miercurea Ciuc,fuzzy,100.0,8.45,6.93,2.1,2.11,-0.01,vbet,3.1,3.18,-0.08,vbet,3.5,3.56,-0.06,vbet
+2026-08-03T15:30:00+00:00,Superliga,FC Universitatea Cluj vs FC Botosani,fuzzy,100.0,7.14,7.07,1.92,1.93,-0.01,vbet,3.4,3.4,0.0,equal,3.9,3.87,0.03,toto
+2026-07-27T15:30:00+00:00,Superliga,CFR Cluj vs FC Voluntari,fuzzy,100.0,7.24,6.9,1.68,1.66,0.02,toto,3.75,3.81,-0.06,vbet,4.75,4.9,-0.15,vbet
+2026-08-05T15:30:00+00:00,Russian Cup,Fakel Voronezh vs Dynamo Moscow,fuzzy,100.0,7.86,6.6,3.6,3.59,0.01,toto,3.8,3.83,-0.03,vbet,1.86,1.9,-0.04,vbet
+2026-08-04T15:30:00+00:00,Russian Cup,FC Dynamo Makhachkala vs Krylia Sovetov Samara,fuzzy,100.0,7.61,6.64,1.94,1.98,-0.04,vbet,3.1,3.15,-0.05,vbet,4.2,4.1,0.1,toto
+2026-08-05T17:45:00+00:00,Russian Cup,Krasnodar vs Akhmat Grozny,fuzzy,100.0,7.37,6.55,1.62,1.64,-0.02,vbet,3.9,3.91,-0.01,vbet,5.0,5.0,0.0,equal
+2026-08-05T15:30:00+00:00,Russian Cup,Spartak Moscow vs Orenburg,fuzzy,100.0,7.26,6.56,1.3,1.31,-0.01,vbet,5.2,5.2,0.0,equal,9.0,9.1,-0.1,vbet
+2026-08-04T13:15:00+00:00,Russian Cup,FK Akron vs FC Rostov,fuzzy,100.0,7.98,6.6,2.6,2.61,-0.01,vbet,3.3,3.37,-0.07,vbet,2.55,2.59,-0.04,vbet
+2026-08-05T17:45:00+00:00,Russian Cup,Zenit St. Petersburg vs FC Baltika Kaliningrad,fuzzy,100.0,8.06,6.34,1.41,1.43,-0.02,vbet,4.2,4.3,-0.1,vbet,7.5,7.6,-0.1,vbet
+2026-07-26T11:30:00+00:00,Premier League,Orenburg vs FC Rostov,fuzzy,100.0,5.04,7.15,2.47,2.43,0.04,toto,3.3,3.21,0.09,toto,2.92,2.87,0.05,toto
+2026-07-25T11:00:00+00:00,Premier League,Dynamo Moscow vs Krylia Sovetov Samara,fuzzy,100.0,5.17,6.9,1.42,1.41,0.01,toto,4.75,4.7,0.05,toto,7.3,6.8,0.5,toto
+2026-07-26T14:00:00+00:00,Premier League,Lokomotiv Moscow vs Akhmat Grozny,fuzzy,100.0,5.56,7.35,1.66,1.65,0.01,toto,3.95,3.86,0.09,toto,5.0,4.8,0.2,toto
+2026-07-25T13:15:00+00:00,Premier League,FK Akron vs Zenit St. Petersburg,fuzzy,100.0,5.23,6.89,7.6,7.8,-0.2,vbet,5.1,5.0,0.1,toto,1.38,1.35,0.03,toto
+2026-07-24T17:00:00+00:00,Premier League,CSKA Moscow vs FC Baltika Kaliningrad,fuzzy,100.0,5.37,6.71,1.93,1.94,-0.01,vbet,3.3,3.25,0.05,toto,4.3,4.1,0.2,toto
+2026-07-25T15:30:00+00:00,Premier League,Fakel Voronezh vs FC Dynamo Makhachkala,fuzzy,100.0,5.34,7.03,2.55,2.51,0.04,toto,3.0,2.88,0.12,toto,3.05,3.08,-0.03,vbet
+2026-07-26T16:30:00+00:00,Premier League,Rubin Kazan vs Krasnodar,fuzzy,100.0,5.41,6.97,3.7,3.61,0.09,toto,3.3,3.23,0.07,toto,2.08,2.07,0.01,toto
+2026-08-01T11:00:00+00:00,Premier League,FK Akron vs Rubin Kazan,fuzzy,100.0,5.3,7.1,3.0,2.96,0.04,toto,3.3,3.29,0.01,toto,2.4,2.33,0.07,toto
+2026-08-01T13:15:00+00:00,Premier League,CSKA Moscow vs Krylia Sovetov Samara,fuzzy,100.0,5.98,6.93,1.45,1.45,0.0,equal,4.4,4.3,0.1,toto,7.0,6.8,0.2,toto
+2026-08-01T15:30:00+00:00,Premier League,FC Dynamo Makhachkala vs Lokomotiv Moscow,fuzzy,100.0,6.23,7.05,3.3,3.34,-0.04,vbet,3.4,3.34,0.06,toto,2.15,2.12,0.03,toto
+2026-08-01T17:45:00+00:00,Premier League,FC Baltika Kaliningrad vs Dynamo Moscow,fuzzy,100.0,6.33,7.02,2.6,2.58,0.02,toto,3.4,3.39,0.01,toto,2.6,2.58,0.02,toto
+2026-08-02T13:00:00+00:00,Premier League,Orenburg vs Zenit St. Petersburg,fuzzy,100.0,5.65,7.19,8.0,7.5,0.5,toto,5.4,5.2,0.2,toto,1.34,1.34,0.0,equal
+2026-08-02T15:15:00+00:00,Premier League,Krasnodar vs Fakel Voronezh,fuzzy,100.0,5.44,7.14,1.3,1.3,0.0,equal,5.4,5.2,0.2,toto,10.0,9.1,0.9,toto
+2026-08-02T17:30:00+00:00,Premier League,Akhmat Grozny vs Spartak Moscow,fuzzy,100.0,6.76,6.93,3.4,3.38,0.02,toto,3.5,3.53,-0.03,vbet,2.05,2.04,0.01,toto
+2026-07-25T13:00:00+00:00,FNL First League,FC Volga Ulyanovsk vs FC Neftekhimik Nizhnekamsk,fuzzy,100.0,9.29,6.91,2.0,2.06,-0.06,vbet,3.1,3.1,0.0,equal,3.7,3.83,-0.13,vbet
+2026-07-25T14:00:00+00:00,FNL First League,FC Chelyabinsk vs FC Nizhny Novgorod,fuzzy,100.0,8.28,6.91,3.4,3.55,-0.15,vbet,3.2,3.19,0.01,toto,2.1,2.11,-0.01,vbet
+2026-07-26T09:00:00+00:00,FNL First League,FC Yenisey Krasnoyarsk vs FK Veles,fuzzy,100.0,8.45,7.02,2.1,2.1,0.0,equal,3.1,3.17,-0.07,vbet,3.5,3.59,-0.09,vbet
+2026-07-26T13:00:00+00:00,FNL First League,FC Leningradets vs Ural Yekaterinburg,fuzzy,100.0,8.99,7.15,5.6,5.7,-0.1,vbet,3.7,3.8,-0.1,vbet,1.56,1.58,-0.02,vbet
+2026-07-26T15:00:00+00:00,FNL First League,PFC Sochi vs Arsenal Tula,fuzzy,100.0,8.54,6.86,1.8,1.79,0.01,toto,3.2,3.27,-0.07,vbet,4.6,4.9,-0.3,vbet
+2026-07-26T12:00:00+00:00,FNL First League,FK Ufa vs FC SKA-Khabarovsk,fuzzy,100.0,8.6,6.92,2.05,2.07,-0.02,vbet,3.2,3.26,-0.06,vbet,3.5,3.58,-0.08,vbet
+2026-07-27T17:00:00+00:00,FNL First League,FC Kamaz Nab.Chelny vs Rotor Volgograd,fuzzy,100.0,8.05,6.99,3.0,3.0,0.0,equal,2.95,2.93,0.02,toto,2.45,2.53,-0.08,vbet
+2026-07-25T15:30:00+00:00,Super Liga,FK Radnicki Nis vs FK Cukaricki,fuzzy,100.0,10.18,7.11,2.25,2.34,-0.09,vbet,3.2,3.21,-0.01,vbet,2.9,3.01,-0.11,vbet
+2026-07-25T18:00:00+00:00,Super Liga,OFK Beograd vs FK Radnik Surdulica,fuzzy,100.0,10.15,6.97,2.15,2.23,-0.08,vbet,3.3,3.36,-0.06,vbet,3.0,3.09,-0.09,vbet
+2026-07-26T17:00:00+00:00,Super Liga,FK Crvena Zvezda vs FK Vojvodina,fuzzy,100.0,10.38,6.81,1.26,1.29,-0.03,vbet,5.4,5.8,-0.4,vbet,8.0,8.3,-0.3,vbet
+2026-07-26T18:30:00+00:00,Super Liga,FK Mladost Lucani vs FK Novi Pazar,fuzzy,100.0,10.81,6.97,2.65,2.81,-0.16,vbet,3.1,3.08,0.02,toto,2.45,2.57,-0.12,vbet
+2026-07-26T19:00:00+00:00,Super Liga,FK Macva Sabac vs FK Partizan Belgrade,fuzzy,100.0,11.14,7.23,6.5,7.1,-0.6,vbet,4.2,4.5,-0.3,vbet,1.39,1.41,-0.02,vbet
+2026-07-25T16:00:00+00:00,First League,FC Spartak Trnava vs MFK Skalica,fuzzy,100.0,7.28,6.79,1.58,1.56,0.02,toto,3.85,3.93,-0.08,vbet,5.55,5.8,-0.25,vbet
+2026-07-25T16:00:00+00:00,First League,AS Trencin vs KFC Komarno,fuzzy,100.0,7.3,6.98,2.29,2.3,-0.01,vbet,3.35,3.34,0.01,toto,2.96,2.98,-0.02,vbet
+2026-07-25T18:30:00+00:00,First League,FK Zeleziarne Podbrezova vs MFK Zemplin Michalovce,fuzzy,100.0,7.21,6.86,1.75,1.74,0.01,toto,4.15,4.2,-0.05,vbet,3.85,3.91,-0.06,vbet
+2026-07-25T16:00:00+00:00,1.SNL,NS Mura vs NK Olimpija Ljubljana,fuzzy,100.0,7.15,6.75,3.35,3.45,-0.1,vbet,3.45,3.45,0.0,equal,2.07,2.05,0.02,toto
+2026-07-26T18:15:00+00:00,1.SNL,FC Koper vs NK Radomlje,fuzzy,100.0,7.74,6.59,1.46,1.46,0.0,equal,4.95,5.3,-0.35,vbet,5.25,5.2,0.05,toto
+2026-08-16T15:00:00+00:00,La Liga,Espanyol vs Levante,fuzzy,100.0,5.54,7.11,2.04,2.02,0.02,toto,3.35,3.21,0.14,toto,3.75,3.78,-0.03,vbet
+2026-08-16T15:00:00+00:00,La Liga,Racing Santander vs Villarreal,fuzzy,100.0,5.69,7.04,3.2,3.0,0.2,toto,3.5,3.62,-0.12,vbet,2.18,2.17,0.01,toto
+2026-08-19T19:00:00+00:00,La Liga,Atletico Madrid vs Malaga CF,fuzzy,100.0,5.58,7.26,1.29,1.3,-0.01,vbet,5.25,5.2,0.05,toto,11.1,9.0,2.1,toto
+2026-08-27T19:00:00+00:00,La Liga,Barcelona vs Athletic Bilbao,fuzzy,100.0,5.32,6.65,1.4,1.39,0.01,toto,5.05,5.0,0.05,toto,7.1,6.8,0.3,toto
+2026-08-26T19:00:00+00:00,La Liga,Real Madrid vs Real Sociedad,fuzzy,100.0,4.81,6.76,1.42,1.4,0.02,toto,5.0,4.9,0.1,toto,6.95,6.7,0.25,toto
+2026-08-25T19:00:00+00:00,La Liga,Valencia vs Real Betis,fuzzy,100.0,5.4,7.06,2.68,2.64,0.04,toto,3.25,3.18,0.07,toto,2.68,2.65,0.03,toto
+2026-07-24T17:00:00+00:00,Allsvenskan,Vasteras SK vs Orgryte IS,fuzzy,100.0,5.39,6.81,1.52,1.53,-0.01,vbet,4.6,4.5,0.1,toto,5.6,5.2,0.4,toto
+2026-07-25T15:30:00+00:00,Allsvenskan,Kalmar FF vs Mjallby AIF,fuzzy,100.0,5.15,6.92,2.3,2.29,0.01,toto,3.6,3.52,0.08,toto,2.95,2.87,0.08,toto
+2026-07-25T13:00:00+00:00,Allsvenskan,Degerfors IF vs Djurgardens IF,fuzzy,100.0,5.36,7.32,4.5,4.2,0.3,toto,4.0,3.84,0.16,toto,1.72,1.74,-0.02,vbet
+2026-07-26T14:30:00+00:00,Allsvenskan,Malmo FF vs IF Elfsborg,fuzzy,100.0,5.28,6.91,1.83,1.85,-0.02,vbet,3.95,3.72,0.23,toto,3.95,3.85,0.1,toto
+2026-07-26T14:30:00+00:00,Allsvenskan,GAIS vs Halmstads BK,fuzzy,100.0,5.47,6.92,1.33,1.33,0.0,equal,5.25,5.2,0.05,toto,8.9,8.0,0.9,toto
+2026-07-26T12:00:00+00:00,Allsvenskan,IF Brommapojkarna vs Hammarby IF,fuzzy,100.0,5.39,7.23,6.35,5.9,0.45,toto,4.95,4.8,0.15,toto,1.44,1.44,0.0,equal
+2026-07-26T12:00:00+00:00,Allsvenskan,IK Sirius FK vs IFK Goteborg,fuzzy,100.0,5.43,7.36,1.48,1.48,0.0,equal,4.85,4.7,0.15,toto,5.8,5.4,0.4,toto
+2026-07-27T17:00:00+00:00,Allsvenskan,BK Hacken vs AIK,fuzzy,100.0,5.64,7.14,1.84,1.85,-0.01,vbet,3.95,4.0,-0.05,vbet,3.85,3.56,0.29,toto
+2026-07-26T13:00:00+00:00,Superettan,Ljungskile SK vs Sandvikens IF,fuzzy,100.0,7.84,6.95,1.98,1.93,0.05,toto,3.7,3.8,-0.1,vbet,3.3,3.47,-0.17,vbet
+2026-07-26T11:00:00+00:00,Superettan,GIF Sundsvall vs Falkenbergs FF,fuzzy,100.0,7.98,6.97,3.4,3.41,-0.01,vbet,3.5,3.65,-0.15,vbet,2.0,1.99,0.01,toto
+2026-07-26T15:00:00+00:00,Superettan,Norrby IF vs Ostersunds FK,fuzzy,100.0,7.37,6.98,2.9,2.91,-0.01,vbet,3.4,3.41,-0.01,vbet,2.3,2.31,-0.01,vbet
+2026-07-27T17:00:00+00:00,Superettan,Orebro SK vs IK Oddevold,fuzzy,100.0,7.98,6.88,2.85,2.89,-0.04,vbet,3.4,3.45,-0.05,vbet,2.3,2.31,-0.01,vbet
+2026-07-27T17:05:00+00:00,Superettan,Osters IF vs Varbergs BoIS FC,fuzzy,100.0,6.97,6.93,2.8,2.83,-0.03,vbet,3.6,3.51,0.09,toto,2.3,2.32,-0.02,vbet
+2026-07-28T17:00:00+00:00,Superettan,Landskrona BoIS vs IFK Norrkoping,fuzzy,100.0,7.44,7.09,3.2,3.21,-0.01,vbet,3.5,3.56,-0.06,vbet,2.1,2.09,0.01,toto
+2026-07-25T13:00:00+00:00,Superettan,IFK Varnamo vs IK Brage,fuzzy,100.0,7.62,6.98,2.15,2.13,0.02,toto,3.6,3.6,0.0,equal,3.0,3.1,-0.1,vbet
+2026-07-24T17:30:00+00:00,Challenge League,Neuchatel Xamax vs SC Kriens,fuzzy,100.0,7.59,7.17,1.72,1.63,0.09,toto,4.2,4.4,-0.2,vbet,3.9,4.33,-0.43,vbet
+2026-07-24T17:30:00+00:00,Challenge League,FC Rapperswil-Jona vs FC Wil 1900,fuzzy,100.0,7.94,7.01,2.8,2.83,-0.03,vbet,3.6,3.62,-0.02,vbet,2.25,2.27,-0.02,vbet
+2026-07-24T17:30:00+00:00,Challenge League,FC Stade Lausanne-Ouchy vs FC Stade Nyonnais,fuzzy,100.0,7.64,6.97,1.5,1.57,-0.07,vbet,4.6,4.5,0.1,toto,5.2,4.75,0.45,toto
+2026-07-24T18:15:00+00:00,Challenge League,FC Winterthur vs Yverdon-Sport FC,fuzzy,100.0,7.44,6.96,2.15,2.16,-0.01,vbet,3.7,3.63,0.07,toto,2.95,3.02,-0.07,vbet
+2026-07-24T18:15:00+00:00,Challenge League,Etoile Carouge FC vs FC Aarau,fuzzy,100.0,8.14,7.11,4.0,3.97,0.03,toto,4.0,4.33,-0.33,vbet,1.72,1.7,0.02,toto
+2026-07-25T16:00:00+00:00,Super League,Servette FC vs FC Basel,fuzzy,100.0,5.41,6.93,2.22,2.24,-0.02,vbet,3.9,3.8,0.1,toto,2.88,2.78,0.1,toto
+2026-07-25T16:00:00+00:00,Super League,FC Lausanne Sport vs Grasshopper Club Zurich,fuzzy,100.0,5.58,7.06,1.82,1.81,0.01,toto,3.95,3.84,0.11,toto,3.95,3.88,0.07,toto
+2026-07-25T18:30:00+00:00,Super League,FC Luzern vs FC Thun 1898,fuzzy,100.0,5.3,7.17,1.99,1.96,0.03,toto,3.9,4.0,-0.1,vbet,3.4,3.21,0.19,toto
+2026-07-26T12:00:00+00:00,Super League,BSC Young Boys vs FC Sion,fuzzy,100.0,5.75,6.99,1.88,1.89,-0.01,vbet,4.1,3.92,0.18,toto,3.55,3.5,0.05,toto
+2026-07-26T14:30:00+00:00,Super League,FC St. Gallen vs FC Zurich,fuzzy,100.0,5.21,6.71,1.57,1.58,-0.01,vbet,4.45,4.2,0.25,toto,5.25,5.1,0.15,toto
+2026-07-26T14:30:00+00:00,Super League,FC Lugano vs FC Vaduz,fuzzy,100.0,4.98,6.88,1.49,1.47,0.02,toto,4.6,4.4,0.2,toto,6.2,6.2,0.0,equal
+2026-07-24T11:00:00+00:00,First League,FSC Phoenix Mariupol vs FC Viktoriya Sumy,fuzzy,100.0,11.72,7.05,2.1,2.17,-0.07,vbet,3.0,3.16,-0.16,vbet,3.25,3.41,-0.16,vbet
+2026-07-24T13:00:00+00:00,First League,FC Oleksandriya vs FC Nyva Ternopil,fuzzy,100.0,11.81,6.92,1.64,1.73,-0.09,vbet,3.7,3.79,-0.09,vbet,4.2,4.4,-0.2,vbet
+2026-07-25T23:30:00+00:00,MLS,Montreal Impact vs Inter Miami CF,fuzzy,100.0,6.05,7.0,2.95,2.89,0.06,toto,3.9,4.0,-0.1,vbet,2.15,2.11,0.04,toto
+2026-07-25T23:30:00+00:00,MLS,New York City FC vs Chicago Fire,fuzzy,100.0,5.59,7.05,2.3,2.28,0.02,toto,3.7,3.64,0.06,toto,2.85,2.8,0.05,toto
+2026-07-25T23:30:00+00:00,MLS,DC United vs Toronto FC,fuzzy,100.0,5.97,6.91,2.05,2.05,0.0,equal,3.6,3.63,-0.03,vbet,3.4,3.27,0.13,toto
+2026-07-25T22:30:00+00:00,MLS,New York Red Bulls vs Charlotte FC,fuzzy,100.0,6.87,6.97,2.15,2.17,-0.02,vbet,3.7,3.69,0.01,toto,3.0,2.96,0.04,toto
+2026-07-25T23:30:00+00:00,MLS,Orlando City SC vs Nashville SC,fuzzy,100.0,5.9,6.99,3.2,3.18,0.02,toto,3.7,3.61,0.09,toto,2.1,2.09,0.01,toto
+2026-07-25T23:30:00+00:00,MLS,Philadelphia Union vs Seattle Sounders,fuzzy,100.0,5.9,6.94,2.1,2.11,-0.01,vbet,3.7,3.65,0.05,toto,3.2,3.11,0.09,toto
+2026-07-26T02:30:00+00:00,MLS,San Jose Earthquakes vs Los Angeles Galaxy,fuzzy,100.0,6.26,6.85,1.82,1.79,0.03,toto,4.0,4.1,-0.1,vbet,3.8,3.76,0.04,toto
+2026-07-26T02:30:00+00:00,MLS,Portland Timbers vs Real Salt Lake,fuzzy,100.0,5.72,6.96,2.4,2.39,0.01,toto,3.8,3.73,0.07,toto,2.65,2.61,0.04,toto
+2026-07-26T02:30:00+00:00,MLS,Los Angeles FC vs Sporting Kansas City,fuzzy,100.0,6.69,7.2,1.23,1.22,0.01,toto,6.5,6.7,-0.2,vbet,10.0,9.7,0.3,toto
+2026-07-26T00:30:00+00:00,MLS,Houston Dynamo vs Austin FC,fuzzy,100.0,5.87,7.0,1.72,1.7,0.02,toto,4.0,3.93,0.07,toto,4.4,4.4,0.0,equal
+2026-07-26T01:30:00+00:00,MLS,San Diego FC vs FC Dallas,fuzzy,100.0,6.04,6.93,2.05,2.07,-0.02,vbet,4.0,3.99,0.01,toto,3.1,2.98,0.12,toto
+2026-07-26T00:30:00+00:00,MLS,St Louis City SC vs Colorado Rapids,fuzzy,100.0,5.73,7.06,2.0,1.99,0.01,toto,3.8,3.84,-0.04,vbet,3.4,3.25,0.15,toto
+2026-07-26T02:00:00+00:00,MLS Next Pro,Ventura County FC vs San Jose Earthquakes II,fuzzy,100.0,11.48,6.93,2.6,2.69,-0.09,vbet,3.5,3.56,-0.06,vbet,2.25,2.4,-0.15,vbet
+2026-07-25T23:00:00+00:00,MLS Next Pro,Chattanooga FC vs Philadelphia Union II,fuzzy,100.0,10.77,7.14,1.72,1.77,-0.05,vbet,3.8,4.0,-0.2,vbet,3.8,3.9,-0.1,vbet
+2026-07-26T00:45:00+00:00,MLS Next Pro,North Texas SC vs Los Angeles FC II,fuzzy,100.0,11.12,7.04,2.5,2.74,-0.24,vbet,3.5,3.55,-0.05,vbet,2.35,2.36,-0.01,vbet
+2026-07-25T18:00:00+00:00,Primera Division,Defensor Sporting Club vs Club Atletico Cerro,fuzzy,100.0,5.81,6.91,1.86,1.79,0.07,toto,3.3,3.31,-0.01,vbet,4.6,4.8,-0.2,vbet
+2026-07-25T21:00:00+00:00,Primera Division,Deportivo Maldonado vs CA Juventud de las Piedras,fuzzy,100.0,6.2,7.02,1.9,1.85,0.05,toto,3.5,3.5,0.0,equal,4.0,4.1,-0.1,vbet
+2026-07-26T14:00:00+00:00,Primera Division,Racing Club Montevideo vs Boston River,fuzzy,100.0,5.19,7.2,1.82,1.74,0.08,toto,3.4,3.41,-0.01,vbet,4.8,4.9,-0.1,vbet
+2026-07-26T18:00:00+00:00,Primera Division,Albion FC Montevideo vs Danubio FC,fuzzy,100.0,6.28,6.95,2.2,2.21,-0.01,vbet,3.1,3.14,-0.04,vbet,3.5,3.35,0.15,toto
+2026-07-26T21:30:00+00:00,Primera Division,CA Penarol vs Cerro Largo FC,fuzzy,100.0,6.17,7.12,1.52,1.47,0.05,toto,4.0,4.1,-0.1,vbet,6.5,6.8,-0.3,vbet
+2026-07-23T18:00:00+00:00,Premier Reserve League,Cerro Largo FC (Reserves) vs CA Juventud de las Piedras (Reserves),fuzzy,100.0,11.78,6.96,2.7,2.95,-0.25,vbet,3.3,3.38,-0.08,vbet,2.25,2.3,-0.05,vbet
+2026-08-21T19:00:00+00:00,Premier League,Arsenal vs Coventry City,fuzzy,100.0,6.0,5.86,1.15,1.16,-0.01,vbet,7.6,7.7,-0.1,vbet,17.0,15.0,2.0,toto
+2026-08-22T14:00:00+00:00,Premier League,Ipswich Town vs Sunderland,fuzzy,100.0,5.39,3.41,2.72,2.77,-0.05,vbet,3.4,3.35,0.05,toto,2.55,2.67,-0.12,vbet
+2026-08-24T19:00:00+00:00,Premier League,Fulham vs Chelsea,fuzzy,100.0,5.46,7.09,2.95,2.91,0.04,toto,3.8,3.64,0.16,toto,2.21,2.21,0.0,equal
+2026-08-23T13:00:00+00:00,Premier League,Brighton and Hove Albion vs Aston Villa,fuzzy,100.0,5.63,7.16,2.22,2.22,0.0,equal,3.7,3.53,0.17,toto,2.98,2.96,0.02,toto
+2026-08-23T13:00:00+00:00,Premier League,Manchester City vs Bournemouth,fuzzy,100.0,5.41,6.88,1.43,1.43,0.0,equal,5.1,5.0,0.1,toto,6.3,5.9,0.4,toto
+2026-08-22T14:00:00+00:00,Premier League,Everton vs Crystal Palace,fuzzy,100.0,5.41,6.96,2.11,2.12,-0.01,vbet,3.55,3.36,0.19,toto,3.35,3.33,0.02,toto
+2026-08-22T16:30:00+00:00,Premier League,Brentford vs Tottenham Hotspur,fuzzy,100.0,5.42,6.95,2.23,2.22,0.01,toto,3.85,3.8,0.05,toto,2.89,2.81,0.08,toto
+2026-08-15T11:30:00+00:00,Championship,Bolton Wanderers vs Preston North End,fuzzy,100.0,5.23,7.0,2.22,2.2,0.02,toto,3.4,3.27,0.13,toto,3.25,3.23,0.02,toto
+2026-08-15T14:00:00+00:00,Championship,Stoke City vs Swansea City,fuzzy,100.0,5.25,6.93,2.39,2.4,-0.01,vbet,3.35,3.2,0.15,toto,2.98,2.94,0.04,toto
+2026-08-15T14:00:00+00:00,Championship,Bristol City vs Millwall,fuzzy,100.0,5.42,7.06,2.44,2.4,0.04,toto,3.3,3.26,0.04,toto,2.93,2.88,0.05,toto
+2026-08-15T14:00:00+00:00,Championship,Norwich City vs West Bromwich Albion,fuzzy,100.0,5.21,6.92,2.03,2.02,0.01,toto,3.6,3.41,0.19,toto,3.55,3.56,-0.01,vbet
+2026-08-15T14:00:00+00:00,Championship,Middlesbrough vs Lincoln City,fuzzy,100.0,4.98,6.67,1.32,1.32,0.0,equal,5.35,5.3,0.05,toto,9.5,8.3,1.2,toto
+2026-08-15T14:00:00+00:00,Championship,Charlton Athletic vs Derby County,fuzzy,100.0,5.42,6.94,2.53,2.52,0.01,toto,3.3,3.17,0.13,toto,2.81,2.8,0.01,toto
+2026-08-16T12:30:00+00:00,Championship,Watford vs Southampton,fuzzy,100.0,5.64,6.95,3.3,3.3,0.0,equal,3.7,3.5,0.2,toto,2.07,2.08,-0.01,vbet
+2026-08-17T19:00:00+00:00,Championship,Cardiff City vs Wrexham FC,fuzzy,100.0,5.22,6.93,2.45,2.43,0.02,toto,3.55,3.4,0.15,toto,2.76,2.75,0.01,toto
+2026-08-01T14:00:00+00:00,EFL Cup,Tranmere Rovers vs Rochdale,fuzzy,100.0,5.42,6.99,2.85,2.87,-0.02,vbet,3.6,3.56,0.04,toto,2.35,2.27,0.08,toto
+2026-08-03T18:30:00+00:00,EFL Cup,York City FC vs Crawley Town,fuzzy,100.0,6.0,6.85,1.68,1.66,0.02,toto,3.9,3.88,0.02,toto,4.8,4.8,0.0,equal
+2026-08-07T18:45:00+00:00,EFL Cup,Wycombe Wanderers vs Stevenage,fuzzy,100.0,5.86,7.01,2.35,2.38,-0.03,vbet,3.4,3.33,0.07,toto,2.95,2.86,0.09,toto
+2026-08-07T19:00:00+00:00,EFL Cup,Middlesbrough vs Wrexham FC,fuzzy,100.0,6.87,6.98,1.8,1.76,0.04,toto,3.8,3.88,-0.08,vbet,4.0,4.1,-0.1,vbet
+2026-08-06T18:45:00+00:00,EFL Cup,Bristol City vs Walsall,fuzzy,100.0,6.64,6.71,1.42,1.41,0.01,toto,4.8,4.9,-0.1,vbet,6.5,6.5,0.0,equal
+2026-08-08T14:00:00+00:00,EFL Cup,Preston North End vs Huddersfield Town,fuzzy,100.0,6.57,7.07,2.2,2.18,0.02,toto,3.6,3.71,-0.11,vbet,3.0,2.92,0.08,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Norwich City vs Milton Keynes Dons,fuzzy,100.0,5.54,7.11,1.62,1.61,0.01,toto,4.2,4.3,-0.1,vbet,5.0,4.6,0.4,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Sheffield Wednesday vs Bolton Wanderers,fuzzy,100.0,6.1,6.99,3.5,3.86,-0.36,vbet,3.7,3.66,0.04,toto,1.98,1.86,0.12,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Salford City vs Shrewsbury Town,fuzzy,100.0,5.77,7.19,1.56,1.5,0.06,toto,4.0,4.1,-0.1,vbet,6.0,6.2,-0.2,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Stoke City vs Oldham Athletic,fuzzy,100.0,6.15,7.06,1.43,1.39,0.04,toto,4.8,4.9,-0.1,vbet,6.5,6.8,-0.3,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Stockport County vs Doncaster Rovers,fuzzy,100.0,5.56,7.59,1.7,1.64,0.06,toto,4.0,4.1,-0.1,vbet,4.6,4.5,0.1,toto
+2026-08-08T16:30:00+00:00,EFL Cup,Rotherham United vs West Bromwich Albion,fuzzy,100.0,5.76,6.87,5.8,5.9,-0.1,vbet,4.4,4.3,0.1,toto,1.52,1.5,0.02,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Swansea City vs Birmingham City,fuzzy,100.0,6.22,7.03,3.0,3.02,-0.02,vbet,3.4,3.37,0.03,toto,2.3,2.26,0.04,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Barnsley vs Wigan Athletic,fuzzy,100.0,5.95,7.09,2.4,2.35,0.05,toto,3.5,3.55,-0.05,vbet,2.8,2.75,0.05,toto
+2026-08-08T14:00:00+00:00,EFL Cup,AFC Wimbledon vs Newport County,fuzzy,100.0,5.56,7.0,1.7,1.67,0.03,toto,4.0,4.1,-0.1,vbet,4.6,4.4,0.2,toto
+2026-08-08T16:30:00+00:00,EFL Cup,Cheltenham Town vs Charlton Athletic,fuzzy,100.0,6.07,7.27,4.8,4.33,0.47,toto,4.0,4.0,0.0,equal,1.66,1.69,-0.03,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Derby County vs Lincoln City,fuzzy,100.0,6.62,6.91,2.0,1.97,0.03,toto,3.8,4.0,-0.2,vbet,3.3,3.21,0.09,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Cardiff City vs Swindon Town,fuzzy,100.0,6.43,7.29,1.47,1.44,0.03,toto,4.6,4.5,0.1,toto,6.0,6.4,-0.4,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Burton Albion vs Blackburn Rovers,fuzzy,100.0,6.04,7.01,3.1,3.01,0.09,toto,3.3,3.32,-0.02,vbet,2.3,2.29,0.01,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Crewe Alexandra vs Accrington Stanley,fuzzy,100.0,5.79,6.91,1.86,1.8,0.06,toto,3.7,3.63,0.07,toto,4.0,4.2,-0.2,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Burnley vs Notts County,fuzzy,100.0,6.02,6.55,1.6,1.58,0.02,toto,4.0,4.1,-0.1,vbet,5.4,5.3,0.1,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Bromley FC vs Reading,fuzzy,100.0,6.12,6.92,2.2,2.13,0.07,toto,3.4,3.37,0.03,toto,3.2,3.3,-0.1,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Fleetwood Town vs Chesterfield FC,fuzzy,100.0,5.87,7.11,2.95,3.07,-0.12,vbet,3.3,3.2,0.1,toto,2.4,2.31,0.09,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Gillingham vs Luton Town,fuzzy,100.0,5.58,6.86,4.6,4.7,-0.1,vbet,3.7,3.69,0.01,toto,1.76,1.71,0.05,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Grimsby Town vs Blackpool,fuzzy,100.0,5.94,6.98,2.45,2.36,0.09,toto,3.4,3.36,0.04,toto,2.8,2.87,-0.07,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Leicester City vs Northampton Town,fuzzy,100.0,5.26,6.97,1.36,1.32,0.04,toto,5.2,5.3,-0.1,vbet,8.0,8.1,-0.1,vbet
+2026-08-10T19:00:00+00:00,EFL Cup,Plymouth Argyle vs Exeter City,fuzzy,100.0,5.54,7.28,1.62,1.59,0.03,toto,4.2,4.1,0.1,toto,5.0,5.0,0.0,equal
+2026-08-16T14:00:00+00:00,FA Community Shield,Arsenal vs Manchester City,fuzzy,100.0,5.51,7.17,2.55,2.52,0.03,toto,3.85,3.75,0.1,toto,2.48,2.45,0.03,toto
+2026-08-01T14:00:00+00:00,Scottish Premiership,Falkirk FC vs St Mirren FC,fuzzy,100.0,5.18,6.93,2.0,1.98,0.02,toto,3.65,3.5,0.15,toto,3.6,3.59,0.01,toto
+2026-08-01T16:30:00+00:00,Scottish Premiership,FC Aberdeen vs Heart of Midlothian FC,fuzzy,100.0,5.34,6.9,4.5,4.2,0.3,toto,3.95,3.76,0.19,toto,1.73,1.77,-0.04,vbet
+2026-08-03T18:30:00+00:00,Scottish Premiership,Celtic FC vs FC Dundee,fuzzy,100.0,5.39,7.01,1.18,1.19,-0.01,vbet,7.3,7.2,0.1,toto,14.4,11.0,3.4,toto
+2026-08-02T15:30:00+00:00,Scottish Premiership,Hibernian Edinburgh FC vs FC Motherwell,fuzzy,100.0,5.08,7.17,2.26,2.24,0.02,toto,3.5,3.35,0.15,toto,3.1,3.06,0.04,toto
+2026-08-02T13:00:00+00:00,Scottish Premiership,St. Johnstone FC vs FC Kilmarnock,fuzzy,100.0,5.39,7.08,2.15,2.14,0.01,toto,3.5,3.38,0.12,toto,3.3,3.25,0.05,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Stenhousemuir FC vs Livingston FC,fuzzy,100.0,7.14,7.19,5.2,5.3,-0.1,vbet,4.2,4.2,0.0,equal,1.56,1.55,0.01,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Queens Park FC vs Queen Of The South,fuzzy,100.0,8.28,6.92,2.0,2.07,-0.07,vbet,3.7,3.78,-0.08,vbet,3.2,3.11,0.09,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Peterhead FC vs FC Kilmarnock,fuzzy,100.0,7.16,7.04,7.5,7.4,0.1,toto,4.8,5.0,-0.2,vbet,1.37,1.36,0.01,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Montrose FC vs Spartans FC,fuzzy,100.0,7.49,6.64,1.32,1.35,-0.03,vbet,5.2,5.6,-0.4,vbet,8.0,6.8,1.2,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Hamilton Academical FC vs Elgin City FC,fuzzy,100.0,8.39,6.47,1.19,1.21,-0.02,vbet,6.0,6.2,-0.2,vbet,13.0,13.0,0.0,equal
+2026-07-25T14:00:00+00:00,Scottish League Cup,Forfar Athletic FC vs Brechin City FC,fuzzy,100.0,8.1,6.95,2.25,2.33,-0.08,vbet,3.5,3.47,0.03,toto,2.85,2.84,0.01,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Falkirk FC vs Stranraer FC,fuzzy,100.0,6.96,7.36,1.15,1.14,0.01,toto,7.5,8.0,-0.5,vbet,15.0,14.0,1.0,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,FC Dundee vs Clyde FC,fuzzy,100.0,7.43,6.6,1.15,1.15,0.0,equal,7.5,8.0,-0.5,vbet,14.0,14.0,0.0,equal
+2026-07-25T14:00:00+00:00,Scottish League Cup,Dumbarton FC vs Cove Rangers FC,fuzzy,100.0,7.98,6.98,3.0,3.08,-0.08,vbet,3.7,3.75,-0.05,vbet,2.1,2.09,0.01,toto
+2026-07-25T14:00:00+00:00,Scottish League Cup,Ayr United FC vs Alloa Athletic FC,fuzzy,100.0,7.89,7.29,1.46,1.43,0.03,toto,4.4,4.6,-0.2,vbet,6.0,6.4,-0.4,vbet
+2026-07-25T14:00:00+00:00,Scottish League Cup,Arbroath FC vs Stirling Albion FC,fuzzy,100.0,8.33,6.75,1.6,1.61,-0.01,vbet,4.0,4.2,-0.2,vbet,4.8,4.8,0.0,equal
+2026-07-25T14:00:00+00:00,Scottish League Cup,Airdrieonians FC vs Ross County FC,fuzzy,100.0,7.63,6.86,4.0,3.91,0.09,toto,4.2,4.2,0.0,equal,1.7,1.74,-0.04,vbet
+2026-07-25T14:00:00+00:00,Scottish League Cup,FC Aberdeen vs Kelty Hearts FC,fuzzy,100.0,7.15,7.18,1.15,1.13,0.02,toto,8.0,9.1,-1.1,vbet,13.0,13.0,0.0,equal
+2026-07-25T14:00:00+00:00,Scottish League Cup,St. Johnstone FC vs East Fife FC,fuzzy,100.0,7.36,7.14,1.18,1.17,0.01,toto,7.0,7.5,-0.5,vbet,12.0,12.0,0.0,equal
+2026-07-25T12:00:00+00:00,Super League,Wuhan Three Towns FC vs Chongqing Tonglianglong,fuzzy,98.9,9.09,6.97,2.2,2.25,-0.05,vbet,3.3,3.35,-0.05,vbet,3.0,3.06,-0.06,vbet
+2026-08-14T19:00:00+00:00,Championship,Wolverhampton Wanderers vs Blackburn Rovers,fuzzy,98.9,5.3,6.84,1.56,1.55,0.01,toto,4.2,4.2,0.0,equal,5.75,5.4,0.35,toto
+2026-08-07T18:45:00+00:00,EFL Cup,Wolverhampton Wanderers vs Port Vale,fuzzy,98.9,5.56,6.89,1.37,1.34,0.03,toto,5.2,5.1,0.1,toto,7.5,7.9,-0.4,vbet
+2026-07-24T00:30:00+00:00,Copa Sudamericana,Independiente Santa Fe vs Caracas FC,fuzzy,98.8,7.33,7.13,1.35,1.36,-0.01,vbet,4.4,4.4,0.0,equal,9.5,9.2,0.3,toto
+2026-07-26T21:05:00+00:00,Primera A,Aguilas Doradas Rionegro vs Independiente Santa Fe,fuzzy,98.8,7.3,6.94,2.75,2.79,-0.04,vbet,2.95,2.89,0.06,toto,2.7,2.74,-0.04,vbet
+2026-07-25T09:30:00+00:00,Super League,Qingdao Hainiu FC vs Tianjin Jinmen Tiger FC,fuzzy,98.8,8.29,7.09,2.7,2.69,0.01,toto,3.2,3.21,-0.01,vbet,2.5,2.58,-0.08,vbet
+2026-07-30T19:00:00+00:00,UEFA Conference League Qualification,Braga vs FK Zeleznicar Pancevo,fuzzy,98.6,8.22,6.58,1.15,1.16,-0.01,vbet,6.5,6.9,-0.4,vbet,17.0,17.0,0.0,equal
+2026-07-24T00:00:00+00:00,Liga Primera,CD Walter Ferretti vs Diriangen FC,fuzzy,98.3,10.0,7.12,3.9,3.97,-0.07,vbet,3.4,3.55,-0.15,vbet,1.82,1.86,-0.04,vbet
+2026-07-23T17:00:00+00:00,UEFA Conference League Qualification,GAIS vs FC Nordsjaelland,fuzzy,98.0,9.0,6.84,2.7,2.79,-0.09,vbet,3.4,3.45,-0.05,vbet,2.35,2.38,-0.03,vbet
+2026-07-26T16:00:00+00:00,Superliga,AC Horsens vs FC Nordsjaelland,fuzzy,98.0,5.22,6.95,3.75,3.65,0.1,toto,3.9,3.64,0.26,toto,1.89,1.92,-0.03,vbet
+2026-07-26T13:45:00+00:00,NB I,Vasas SC vs Gyor ETO FC,fuzzy,97.1,7.05,6.66,4.3,4.33,-0.03,vbet,3.95,4.1,-0.15,vbet,1.71,1.69,0.02,toto
+2026-07-25T13:00:00+00:00,Ykkonen,SalPa vs PK Keski-Uusimaa,fuzzy,96.9,12.5,6.59,1.6,1.65,-0.05,vbet,4.0,4.3,-0.3,vbet,4.0,4.4,-0.4,vbet
+2026-07-26T15:00:00+00:00,Eliteserien,Sarpsborg 08 FF vs HamKam,fuzzy,96.2,5.2,7.29,1.72,1.71,0.01,toto,4.2,4.0,0.2,toto,4.3,4.2,0.1,toto
+2026-07-23T16:00:00+00:00,Kolmonen,KPV Akatemia vs VPV,fuzzy,95.8,11.99,7.05,2.15,2.24,-0.09,vbet,4.2,4.4,-0.2,vbet,2.4,2.52,-0.12,vbet
+2026-07-23T19:15:00+00:00,1. Deild - Women,IF Grotta (Wom) vs Fjardabyggd/Hottur/Leiknir (Wom),fuzzy,95.8,12.48,6.9,1.34,1.37,-0.03,vbet,5.0,5.4,-0.4,vbet,5.6,6.5,-0.9,vbet
+2026-07-25T10:30:00+00:00,K League 2,Busan I Park vs Suwon Bluewings,fuzzy,95.8,10.12,7.0,3.2,3.52,-0.32,vbet,3.2,3.16,0.04,toto,2.1,2.13,-0.03,vbet
+2026-08-17T19:00:00+00:00,La Liga,Deportivo de A Coruna vs Elche CF,fuzzy,95.7,5.5,7.04,2.23,2.23,0.0,equal,3.2,3.1,0.1,toto,3.4,3.34,0.06,toto
+2026-08-08T14:00:00+00:00,EFL Cup,Bristol Rovers vs Peterborough United,fuzzy,95.7,5.75,7.11,2.45,2.38,0.07,toto,3.5,3.53,-0.03,vbet,2.75,2.72,0.03,toto
+2026-07-25T13:00:00+00:00,Ykkosliiga,JaPS vs Klubi 04,fuzzy,95.5,10.69,7.11,2.05,2.14,-0.09,vbet,3.5,3.61,-0.11,vbet,3.0,3.06,-0.06,vbet
+2026-07-25T18:00:00+00:00,Super Liga,FK IMT Novi Beograd vs FK Zemun,fuzzy,95.5,11.29,6.81,1.64,1.78,-0.14,vbet,3.5,3.52,-0.02,vbet,4.6,4.5,0.1,toto
+2026-07-24T16:00:00+00:00,Club Friendlies,Rosenborg vs Manchester United,fuzzy,95.2,7.14,6.82,4.2,4.1,0.1,toto,4.2,4.3,-0.1,vbet,1.68,1.69,-0.01,vbet
+2026-07-24T09:30:00+00:00,NPL Victoria,Heidelberg United vs Caroline Springs George Cross,fuzzy,95.2,10.98,7.17,1.43,1.42,0.01,toto,4.2,4.85,-0.65,vbet,5.8,6.2,-0.4,vbet
+2026-07-23T19:15:00+00:00,4. Deild,UMF Alftanes vs KF Vaengir Jupiters,fuzzy,95.2,11.97,7.0,1.17,1.18,-0.01,vbet,6.5,8.3,-1.8,vbet,9.0,9.8,-0.8,vbet
+2026-08-22T11:30:00+00:00,Premier League,Hull City vs Manchester United,fuzzy,95.2,5.47,6.71,7.0,6.9,0.1,toto,4.6,4.3,0.3,toto,1.44,1.45,-0.01,vbet
+2026-08-08T16:30:00+00:00,EFL Cup,Colchester United vs Southampton,fuzzy,95.2,5.8,6.97,8.0,8.5,-0.5,vbet,5.2,5.3,-0.1,vbet,1.35,1.31,0.04,toto
+2026-07-25T15:00:00+00:00,Primera Division,Central Espanol FC vs Liverpool Montevideo,fuzzy,95.0,6.06,6.99,3.2,3.17,0.03,toto,3.1,3.04,0.06,toto,2.35,2.35,0.0,equal
+2026-07-26T00:30:00+00:00,MLS,Minnesota United FC vs Vancouver Whitecaps FC,fuzzy,94.8,5.43,6.92,3.7,3.63,0.07,toto,3.8,3.82,-0.02,vbet,1.92,1.88,0.04,toto
+2026-08-23T15:30:00+00:00,Premier League,Newcastle United vs Liverpool,fuzzy,94.8,5.65,7.1,2.94,2.93,0.01,toto,3.85,3.69,0.16,toto,2.19,2.18,0.01,toto
+2026-08-15T16:30:00+00:00,Championship,Sheffield United vs Birmingham City,fuzzy,94.8,5.6,7.07,2.51,2.49,0.02,toto,3.3,3.18,0.12,toto,2.82,2.82,0.0,equal
+2026-08-08T12:00:00+00:00,EFL Cup,Cambridge United vs Barnet FC,fuzzy,94.8,6.06,7.17,1.8,1.74,0.06,toto,3.6,3.64,-0.04,vbet,4.4,4.5,-0.1,vbet
+2026-08-09T15:00:00+00:00,EFL Cup,Mansfield Town vs Sheffield United,fuzzy,94.8,6.54,7.11,4.0,3.92,0.08,toto,3.6,3.71,-0.11,vbet,1.86,1.83,0.03,toto
+2026-07-28T17:00:00+00:00,Superettan,Helsingborgs IF vs United IK Nordic,fuzzy,92.7,7.14,7.08,2.3,2.3,0.0,equal,3.5,3.38,0.12,toto,2.85,2.94,-0.09,vbet
+2026-07-23T17:30:00+00:00,UEFA Conference League Qualification,FC Vaduz vs AC d'Escaldes,fuzzy,94.4,8.51,6.9,1.29,1.27,0.02,toto,5.2,6.0,-0.8,vbet,8.5,8.7,-0.2,vbet
+2026-07-26T19:00:00+00:00,Primera Nacional,Gimnasia y Esgrima de Jujuy vs CA Guemes,fuzzy,94.4,9.86,7.05,1.43,1.45,-0.02,vbet,3.9,4.1,-0.2,vbet,7.0,7.3,-0.3,vbet
+2026-07-24T00:45:00+00:00,Liga Profesional,CSD Defensa y Justicia vs CA Aldosivi,fuzzy,94.4,6.08,6.98,1.92,1.88,0.04,toto,3.1,3.12,-0.02,vbet,4.6,4.6,0.0,equal
+2026-07-25T18:45:00+00:00,Premier Division,Sligo Rovers vs Drogheda United,fuzzy,94.4,6.84,7.01,2.79,2.86,-0.07,vbet,3.45,3.35,0.1,toto,2.38,2.37,0.01,toto
+2026-07-25T21:30:00+00:00,Primera Division,Sportivo Ameliano vs Club Nacional Asuncion,fuzzy,94.4,8.33,6.93,3.0,3.13,-0.13,vbet,3.0,3.05,-0.05,vbet,2.4,2.37,0.03,toto
+2026-08-16T15:00:00+00:00,Championship,Burnley vs West Ham United,fuzzy,94.4,5.45,7.03,2.85,2.83,0.02,toto,3.55,3.41,0.14,toto,2.37,2.36,0.01,toto
+2026-08-08T14:00:00+00:00,EFL Cup,West Ham United vs Portsmouth,fuzzy,94.4,6.37,7.19,1.52,1.49,0.03,toto,4.4,4.5,-0.1,vbet,5.6,5.6,0.0,equal
+2026-07-23T18:00:00+00:00,Reserve League,San Martin San Juan (Reserves) vs Atletico Rafaela (Reserves),fuzzy,94.2,10.61,7.06,3.4,3.52,-0.12,vbet,3.5,3.69,-0.19,vbet,1.9,1.94,-0.04,vbet
+2026-07-24T16:00:00+00:00,Ykkonen,Tampere United vs Inter Turku II,fuzzy,94.0,11.13,6.99,1.22,1.28,-0.06,vbet,6.0,6.3,-0.3,vbet,8.0,7.7,0.3,toto
+2026-07-26T10:30:00+00:00,K League 1,Incheon United FC vs Bucheon FC 1995,fuzzy,94.0,5.39,6.96,1.68,1.72,-0.04,vbet,3.55,3.38,0.17,toto,5.65,5.2,0.45,toto
+2026-07-25T23:30:00+00:00,MLS,New England Revolution vs Atlanta United FC,fuzzy,94.0,5.97,7.11,2.05,2.04,0.01,toto,3.6,3.66,-0.06,vbet,3.4,3.25,0.15,toto
+2026-07-24T23:00:00+00:00,MLS Next Pro,New York Red Bulls II vs Crown Legacy FC,fuzzy,94.0,11.09,6.95,1.88,1.96,-0.08,vbet,3.9,3.93,-0.03,vbet,3.1,3.28,-0.18,vbet
+2026-07-24T10:15:00+00:00,NPL SA State League 1,Eastern United FC vs Salisbury United,fuzzy,88.8,12.29,7.04,2.25,2.47,-0.22,vbet,3.7,3.7,0.0,equal,2.45,2.53,-0.08,vbet
+2026-08-29T13:30:00+00:00,Bundesliga,Borussia Dortmund vs Hamburger SV,fuzzy,93.8,5.27,6.78,1.32,1.32,0.0,equal,5.4,5.4,0.0,equal,9.1,8.0,1.1,toto
+2026-08-08T18:00:00+00:00,Eredivisie,PSV Eindhoven vs Fortuna Sittard,fuzzy,93.8,5.19,7.11,1.23,1.22,0.01,toto,7.1,7.4,-0.3,vbet,10.2,8.6,1.6,toto
+2026-07-26T14:00:00+00:00,FNL First League,Torpedo Moscow vs Shinnik Yaroslavl,fuzzy,93.8,8.32,7.22,1.78,1.78,0.0,equal,3.4,3.47,-0.07,vbet,4.4,4.5,-0.1,vbet
+2026-07-26T18:00:00+00:00,Primera Nacional,Agropecuario Argentino vs San Martin San Juan,fuzzy,93.5,10.09,7.07,2.4,2.45,-0.05,vbet,2.85,2.96,-0.11,vbet,3.0,3.08,-0.08,vbet
+2026-07-25T16:00:00+00:00,Premier Division,Galway United FC vs Waterford FC,fuzzy,93.5,7.09,7.0,1.85,1.83,0.02,toto,3.9,3.96,-0.06,vbet,3.65,3.69,-0.04,vbet
+2026-07-24T18:45:00+00:00,First Division,Treaty United vs Athlone Town,fuzzy,93.5,9.8,6.99,2.65,2.68,-0.03,vbet,3.2,3.25,-0.05,vbet,2.45,2.57,-0.12,vbet
+2026-08-08T14:00:00+00:00,EFL Cup,Leyton Orient vs Oxford United,fuzzy,93.5,6.5,6.94,2.65,2.59,0.06,toto,3.3,3.21,0.09,toto,2.6,2.69,-0.09,vbet
+2026-07-31T19:00:00+00:00,Scottish Premiership,Dundee United vs Glasgow Rangers,fuzzy,93.5,5.48,7.32,5.5,5.3,0.2,toto,4.65,4.5,0.15,toto,1.52,1.51,0.01,toto
+2026-07-27T17:00:00+00:00,I Liga,MKS Miedz Legnica vs TS Podbeskidzie Bielsko-Biala,fuzzy,93.3,7.81,7.09,2.05,2.0,0.05,toto,3.6,3.9,-0.3,vbet,3.2,3.18,0.02,toto
+2026-07-25T01:00:00+00:00,Liga de Expansion MX,CD Mineros de Zacatecas vs Correcaminos UAT,fuzzy,92.9,9.9,7.25,1.48,1.5,-0.02,vbet,4.2,4.4,-0.2,vbet,5.4,5.6,-0.2,vbet
+2026-08-09T10:15:00+00:00,Eredivisie,Sparta Rotterdam vs Feyenoord Rotterdam,fuzzy,92.9,5.51,7.0,4.4,4.4,0.0,equal,4.3,4.1,0.2,toto,1.68,1.67,0.01,toto
+2026-07-26T12:30:00+00:00,I Liga,Bruk-Bet Termalica Nieciecza vs Ruch Chorzow,fuzzy,92.9,7.44,7.1,2.1,2.1,0.0,equal,3.5,3.53,-0.03,vbet,3.2,3.21,-0.01,vbet
+2026-08-04T15:30:00+00:00,Russian Cup,FC Rodina Moscow vs Rubin Kazan,fuzzy,92.9,7.14,6.52,3.5,3.45,0.05,toto,3.7,3.7,0.0,equal,1.94,1.98,-0.04,vbet
+2026-07-25T17:45:00+00:00,Premier League,Spartak Moscow vs FC Rodina Moscow,fuzzy,92.9,8.19,7.01,1.31,1.3,0.01,toto,5.4,5.5,-0.1,vbet,7.5,8.4,-0.9,vbet
+2026-07-31T17:00:00+00:00,Premier League,FC Rodina Moscow vs FC Rostov,fuzzy,92.9,5.86,7.01,2.95,2.96,-0.01,vbet,3.4,3.32,0.08,toto,2.35,2.32,0.03,toto
+2026-08-22T14:00:00+00:00,Premier League,Nottingham Forest vs Leeds United,fuzzy,92.9,5.28,6.98,2.22,2.22,0.0,equal,3.45,3.28,0.17,toto,3.2,3.18,0.02,toto
+2026-07-24T09:30:00+00:00,NPL NSW,Manly United FC vs Sydney Olympic FC,fuzzy,91.1,10.96,7.1,1.92,1.92,0.0,equal,3.5,3.77,-0.27,vbet,3.3,3.51,-0.21,vbet

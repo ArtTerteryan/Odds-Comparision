@@ -1,0 +1,37 @@
+# Runtime configuration — tuning lives here, never in code.
+
+totogaming:
+  url: "https://sport.totogaming.am/en/sport"
+  # Encrypted prematch endpoints we capture. They return {payload:<b64>,
+  # timestamp}; we DECRYPT them by reusing the site's own WASM decryptor
+  # (window.createDecryptor) via Playwright — NOT by reading the DOM.
+  # See ARCHITECTURE.md §2c. getdayexpress is plain but has no 1X2 odds.
+  sport_id: 1   # Digitain sport id; 1 == Football. Change to extend sports.
+  endpoint_patterns:
+    - "prematch/gettopeventslist"
+    - "prematch/gettopteneventslist"
+
+vbet:
+  url: "https://sport.vbet.am/en/sports/pre-match/event-view?specialSection=popular-matches"
+  swarm_host: "swarm-newm.vbet.am"
+  sport_alias: "Soccer"   # Swarm sport alias; change to extend to other sports
+  # Swarm tree path to games (pinned in phase 1):
+  #   data.data.sport.{id}.region.{id}.competition.{id}.game.{id}
+  # game: {id, team1_name, team2_name, start_ts}
+  # game.market{ type=P1XP2 }.event -> selections {name: W1|Draw|W2, price}
+
+browser:
+  headless: false        # start headful — friendlier to Akamai; flip later
+  timeout_seconds: 45    # max wait for the SPA to finish loading data
+  settle_seconds: 8      # extra time to let XHR/WS traffic arrive after load
+
+matching:
+  kickoff_window_minutes: 3   # time-blocking window (measured optimal ~3)
+  high_threshold: 85          # per-side min >= this => confident deterministic match
+  gray_low: 62                # [gray_low, high) => gray zone -> AI/review
+  use_ai: true                # false => deterministic-only + review list
+  ai_model: "claude-haiku-4-5"
+
+paths:
+  raw_dir: "data/raw"
+  out_dir: "data/out"

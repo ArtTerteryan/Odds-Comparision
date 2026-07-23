@@ -1,0 +1,77 @@
+# Manual + AI-learned cross-book team-name mappings.
+# key: normalized name -> value: canonical normalized name.
+# Both books' spellings point to the same canonical string so
+# the deterministic matcher pairs them without AI next time.
+aluminij: aluminij kidricevo
+america mg: america mineiro
+at tucuman: atletico tucuman
+atletico go: atletico goianiense
+atletico mg: atletico mineiro
+atletico mitre del estero: mitre
+ayr utd: ayr united
+bragantino: red bragantino
+brisbane olympic: olympic queensland
+bts rekord bielsko-biala: bts rekord bielsko-biała
+c a union: union de santa fe
+cambuur: cambuur leeuwarden
+dc utd: dc united
+deportes la serena: la serena
+dinamo city: dinamo tirana
+dynamo bucuresti: dinamo bucuresti
+estudiantes: estudiantes la plata
+excelsior rotterdam: sbv excelsior rotterdam
+falkenberg: falkenbergs ff
+ferencvaros: ferencvaros tc
+ferencvarosi tc: ferencvaros tc
+francs borains: royal francs-borains
+gak: grazer ak
+gimnasia l p: gimnasia y esgrima la plata
+grasshoppers: grasshopper zurich
+hb torshavn: havnar boltfelag
+jyty: jyty turku
+krylya sovetov: krylia sovetov samara
+la galaxy: los angeles galaxy
+lausanne: lausanne sport
+lechia zielona gora: ks lechia zielona gora
+lens: rc lens
+liaoning ironman: liaoning tieren
+masku: maskun palloseura
+mitre sde: mitre
+olympic qld: olympic queensland
+peka: peli-karhut
+pfk oleksandria: oleksandriya
+platense: platense buenos aires
+psg: paris saint-germain
+racing: racing avellaneda
+rapperswil jona: rapperswil-jona
+rb bragantino: red bragantino
+rekord bielsko biala: bts rekord bielsko-biała
+rigas: rfs
+sbv excelsior: sbv excelsior rotterdam
+seinajoen jk: sjk
+sepsi osk: acs sepsi osk
+ska khabarovsk: ska-khabarovsk
+skendija tetovo: shkendija
+slavia prague: slavia praha
+slaviya sofia: pfk slavia sofia
+slovacko: 1 slovacko
+sport boys callao: sport boys association
+sporting kc: sporting kansas city
+stade-lausanne-ouchy: stade lausanne-ouchy
+sundsvall: gif sundsvall
+tp: tp-
+tromse: tromsø
+tromso: tromsø
+tubize-braine: royale union tubize-braine
+univ catolica: universidad catolica santiago
+univ cluj: universitatea cluj
+univ craiova: universitatea craiova
+univ de chile: universidad de chile
+univ deportes: universitario de deportes
+univ tecnico: tecnico universitario
+varberg: varbergs bois
+vg: vg- naantali
+vifk: vasa ifk
+vinotinto ecuador: atletico vinotinto
+wolfsberger: rz pellets wac
+yverdon: yverdon-sport
