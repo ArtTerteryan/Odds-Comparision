@@ -1,4 +1,3 @@
-# Secrets — never commit
 .env
 *.key
 
@@ -8,10 +7,8 @@ __pycache__/
 .venv/
 venv/
 
-# Raw snapshots — regenerable and large, keep out of git
 data/raw/
 
-# Outputs — ignore everything except the three deliverables (kept visible in the repo)
 data/out/*
 !data/out/report.html
 !data/out/comparison.csv
